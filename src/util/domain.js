@@ -132,6 +132,8 @@ export {
     trimRouteId,
     isDropOffOnly,
     getZoneName,
+    colorsByMode,
+    iconsByMode,
     getColor,
     getIcon,
 };
