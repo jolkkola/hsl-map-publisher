@@ -38,7 +38,9 @@ const propsMapper = mapProps(props => ({
     modes: Array.from(
         flatMap(
             props.data.stop.siblings.nodes,
-            node => node.routeSegments.nodes.map(segment => segment.route.nodes[0])
+            node => node.routeSegments.nodes
+                .filter(segment => segment.route.nodes.length !== 0)
+                .map(segment => segment.route.nodes[0])
         ).reduce(
             (set, route) =>
                 set.add(isTrunkRoute(trimRouteId(route.routeId)) ? "TRUNK" : route.mode),
