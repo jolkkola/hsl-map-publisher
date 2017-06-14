@@ -25,12 +25,12 @@
     color: var(--hsl-blue);
 }
 
-.title {
+.header > .title {
     padding: 5px 10px;
     font-size: 18px;
 }
 
-.subtitle {
+.header > .subtitle {
     display: flex;
     padding: 0 10px;
     font-size: 12px;
@@ -38,10 +38,24 @@
     letter-spacing: -0.025em;
 }
 
-.subtitle > *:first-child {
+.header > .subtitle > *:first-child {
     width: 50px;
 }
 
+.componentName {
+    padding: 20px 10px 0px;
+    font-family: fontFamily;
+    color: var(--hsl-blue);
+    font-size: 30px;
+}
+
+.componentName > .title {
+    font-weight: 500;
+}
+
+.componentName > .subtitle {
+    font-weight: 300;
+}
 .table > *:nth-child(odd) {
     background-color: white;
 }
