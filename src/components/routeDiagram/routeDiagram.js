@@ -6,9 +6,17 @@ import styles from "./routeDiagram.css";
 
 const RouteDiagram = props => (
     <div className={styles.root}>
+        <div className={styles.componentName}>
+            <div className={styles.title}>
+                Linjojen reitit
+            </div>
+            <div className={styles.subtitle}>
+                Linjernas rutter
+            </div>
+        </div>
         <div className={styles.start}>
             <img src={markerIcon} className={styles.icon} role="presentation"/>
-            <div className={styles.title}>
+            <div className={styles.myPositionTitle}>
               Olet tässä&nbsp;&nbsp;
               <span className={styles.subtitle}>Du är här</span>
             </div>

@@ -24,7 +24,7 @@
     margin-right: 8px;
 }
 
-.title {
+.myPositionTitle {
     font-size: 18px;
     font-weight: 500;
     font-family: fontFamily;
@@ -33,4 +33,15 @@
 
 .subtitle {
     font-weight: 300;
+}
+
+.componentName {
+    padding: 0px 0px 20px;
+    font-family: fontFamily;
+    color: var(--hsl-blue);
+    font-size: 30px;
+}
+
+.componentName > .title {
+    font-weight: 500;
 }
