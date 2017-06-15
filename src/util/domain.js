@@ -15,6 +15,8 @@ const SUBWAY_ROUTE_ID_REGEXP = /^31/;
  * @returns {boolean}
  */
 function isNumberVariant(routeId) {
+    // TODO: remove fixup for errenous tram data 08/2017 - 10/2017
+    if (routeId === "1003 8") return false;
     return /.{5}[0-9]/.test(routeId);
 }
 
@@ -51,6 +53,8 @@ function isTrunkRoute(routeId) {
  * @returns {String}
  */
 function trimRouteId(routeId) {
+  // TODO: remove fixup for errenous tram data 08/2017 - 10/2017
+    if (routeId === "1003 8") return "3";
     if (isRailRoute(routeId) && isNumberVariant(routeId)) {
         return routeId.substring(1, 5).replace(RAIL_ROUTE_ID_REGEXP, "");
     } else if (isRailRoute(routeId)) {
