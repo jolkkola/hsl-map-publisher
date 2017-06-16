@@ -19,6 +19,8 @@ const ANGLES = [-32, -16, -8, -4, -1, 0, 1, 4, 8, 16, 32];
 const DISTANCES = [-25, -10, -1, 0, 1, 10, 25];
 const FACTORS = [5, 3, 2, 1];
 
+const TIMEOUT = 3 * 60 * 1000;
+
 const diffs = FACTORS.map(f => (
     ANGLES.reduce((prev, angle) => (
         [...prev, ...DISTANCES.map(distance => ({ angle: angle * f, distance: distance * f }))]
@@ -381,7 +383,15 @@ class ItemContainer extends Component {
             .map(position => this.updatePosition(position));
         let placement = { positions: initialPositions, indexes: [] };
 
-        for (let factor = 0; factor < FACTORS.length; factor++) {
+        let hasTimeout = false;
+
+        // Set a three minute timeout for label placement
+        const timeoutId = setTimeout(() => {
+            hasTimeout = true;
+        }, TIMEOUT);
+
+        // eslint-disable-next-line no-labels
+        OUTER: for (let factor = 0; factor < FACTORS.length; factor++) {
             this.updateDiffs(factor);
             for (let iteration = 0; iteration < ITERATIONS_PER_FACTOR; iteration++) {
                 const previousPlacement = placement;
@@ -389,9 +399,13 @@ class ItemContainer extends Component {
                     placement = await this.getNextPlacement(placement, i); // eslint-disable-line
                     if (this.shouldStopUpdating) return;
                 }
+                // eslint-disable-next-line no-labels
+                if (hasTimeout) break OUTER;
                 if (placement === previousPlacement) break;
             }
         }
+
+        clearTimeout(timeoutId);
 
         refs.forEach((ref, index) => {
             ref.setPosition(placement.positions[index].top, placement.positions[index].left);
