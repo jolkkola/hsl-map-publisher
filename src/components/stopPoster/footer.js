@@ -13,7 +13,7 @@ const Footer = (props) => {
 
     return (
         <div style={{ position: "relative" }}>
-            <Image src={footerIcon}/>
+            <Image src={footerIcon} id="footerIcon"/>
             <div className={styles.shortCode}>
                 {feedbackUrl}
             </div>

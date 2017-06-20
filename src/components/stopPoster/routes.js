@@ -13,6 +13,10 @@ const MAX_COLUMNS = 6;
 
 const Icon = props => <Image {...props} className={styles.icon}/>;
 
+function replaceColor(src) {
+    return `data:image/svg+xml;base64,${btoa(atob(src.replace("data:image/svg+xml;base64,", "")).replace("#D5E8FA", "#FFFFFF"))}`;
+}
+
 class Routes extends Component {
     constructor(props) {
         super(props);
@@ -67,6 +71,13 @@ class Routes extends Component {
         if (this.props.routes.some(route => isTrunkRoute(route.routeId))) {
             // TODO: This is a hack to set the background color for stops with trunk routes
             document.documentElement.style.setProperty("--background", colorsByMode.TRUNK);
+            document.documentElement.style.setProperty("--light-background", "#FFE0D1");
+
+            const footer = document.getElementById("footerIcon");
+
+            if (footer) {
+                footer.src = replaceColor(footer.src);
+            }
         }
 
         return (
