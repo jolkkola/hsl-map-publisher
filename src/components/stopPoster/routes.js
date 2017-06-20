@@ -53,6 +53,11 @@ class Routes extends Component {
     }
 
     render() {
+        if (this.props.routes.length === 0) {
+            console.error("No routes for stop");
+            renderQueue.remove(this, { success: false });
+        }
+
         const routesPerColumn = Math.ceil(this.props.routes.length / this.state.columns);
         const routeColumns = chunk(
             sortBy(this.props.routes, route => !isTrunkRoute(route.routeId)),
