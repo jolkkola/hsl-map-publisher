@@ -9,6 +9,7 @@ const hocFactory = propName => WrappedComponent => (
         }
 
         handlePromise(promise) {
+            if (renderQueue.hasErrors) return;
             this.promise = promise;
             renderQueue.add(promise);
             promise

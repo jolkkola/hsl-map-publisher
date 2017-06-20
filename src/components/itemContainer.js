@@ -371,6 +371,10 @@ class ItemContainer extends Component {
     }
 
     async updateChildren() {
+        if (renderQueue.hasErrors) {
+            return;
+        }
+
         // Add component to queue to let it know we're still updating
         renderQueue.add(this);
 
@@ -400,7 +404,7 @@ class ItemContainer extends Component {
                     if (this.shouldStopUpdating) return;
                 }
                 // eslint-disable-next-line no-labels
-                if (hasTimeout) break OUTER;
+                if (hasTimeout || renderQueue.hasErrors) break OUTER;
                 if (placement === previousPlacement) break;
             }
         }

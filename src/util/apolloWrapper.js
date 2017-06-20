@@ -6,6 +6,7 @@ import renderQueue from "util/renderQueue";
 
 const updateQueueOnChange = lifecycle({
     componentDidMount() {
+        if (renderQueue.hasErrors) return;
         if (this.props.data.loading) {
             renderQueue.add(this);
         }
