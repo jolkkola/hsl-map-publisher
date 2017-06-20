@@ -173,10 +173,18 @@ const propsMapper = mapProps((props) => {
         props.data.stop.siblings.nodes,
         stop => stop.departures.nodes.map(departure => departure.dateBegin)
     ).sort((a, b) => b.localeCompare(a))[0];
-    const dateEnd = props.dateEnd || flatMap(
+    let dateEnd = props.dateEnd || flatMap(
         props.data.stop.siblings.nodes,
         stop => stop.departures.nodes.map(departure => departure.dateEnd)
     ).sort((a, b) => a.localeCompare(b))[0];
+
+    // TOOD: This is a temprary workaround for länsimetro opening date
+    if (flatMap(
+        props.data.stop.siblings.nodes,
+        stop => stop.departures.nodes.map(departure => departure.dateEnd)
+    ).sort((a, b) => a.localeCompare(b))[0] === "2017-10-15") {
+        dateEnd = null;
+    }
 
     return {
         weekdays,

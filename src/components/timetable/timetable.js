@@ -106,9 +106,9 @@ const Timetable = props => (
                 <div><strong>Aikataulut voimassa</strong></div>
                 <div>Tidtabeller giltiga</div>
                 <div>
-                    {new Date(props.dateBegin).toLocaleDateString("fi")}
+                    {props.dateBegin && new Date(props.dateBegin).toLocaleDateString("fi")}
                     &nbsp;-&nbsp;
-                    {new Date(props.dateEnd).toLocaleDateString("fi")}
+                    {props.dateEnd && new Date(props.dateEnd).toLocaleDateString("fi")}
                 </div>
             </div>
         }
