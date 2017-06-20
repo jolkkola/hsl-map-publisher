@@ -3,92 +3,92 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="50 0 2196.1 410" style="enable-background:new 0 0 2296.1 467.7;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;fill:#007DC3;}
-	.st2{fill:#FFFFFF;}
-	.st3{font-family:'GothamRounded-Medium';}
-	.st4{font-size:24px;}
-	.st5{font-family:'GothamRounded-Book';}
-	.st6{font-size:18px;}
-	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st8{fill:none;stroke:#FFFFFF;stroke-width:4.994;stroke-linecap:round;stroke-miterlimit:10;}
-	.st9{fill:none;stroke:#FFFFFF;stroke-width:4.994;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9955;}
-	.st10{fill:none;stroke:#FFFFFF;stroke-width:5.0203;stroke-linecap:round;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:#FFFFFF;stroke-width:5.0203;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9374;}
-	.st12{fill:#D5E8FA;}
-	.st13{clip-path:url(#SVGID_2_);}
-	.st14{fill:#FFFFFF;stroke:#D5E8FA;stroke-miterlimit:10;}
-	.st15{fill:none;stroke:#9AC4EB;stroke-width:0.7087;stroke-miterlimit:10;}
-	.st16{fill:none;stroke:#9AC4EB;stroke-width:0.7087;stroke-miterlimit:10;stroke-dasharray:2.8441,2.8441;}
-	.st17{fill:#9AC4EB;}
-	.st18{font-size:8.5437px;}
-	.st19{fill:#007DC3;}
-	.st20{display:none;fill:#9AC4EB;}
-	.st21{fill:#9AC4EB;stroke:#FFFFFF;stroke-width:0.7087;stroke-miterlimit:10;}
-	.st22{fill:none;stroke:#D5E8FA;stroke-miterlimit:10;}
-	.st23{fill:none;}
-	.st24{font-size:9.154px;}
-	.st25{fill:#FFFFFF;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
-	.st26{fill:#9AC4EB;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
-	.st27{fill:#007DC3;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
-	.st28{letter-spacing:2;}
-	.st29{fill:none;stroke:#FFFFFF;stroke-width:0.7087;stroke-miterlimit:10;}
-	.st30{clip-path:url(#SVGID_4_);}
-	.st31{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;}
-	.st32{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.1235,2.1235;}
-	.st33{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6878,2.6878;}
-	.st34{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8626,2.8626;}
-	.st35{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8188,2.8188;}
-	.st36{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6524,2.6524;}
-	.st37{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0275,3.0275;}
-	.st38{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.1395,3.1395;}
-	.st39{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4486,2.4486;}
-	.st40{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9743,2.9743;}
-	.st41{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.8592,1.8592;}
-	.st42{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4519,2.4519;}
-	.st43{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7939,2.7939;}
-	.st44{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.6148,3.6148;}
-	.st45{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.4897,1.4897;}
-	.st46{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8717,2.8717;}
-	.st47{display:inline;}
-	.st48{display:inline;fill:none;}
-	.st49{font-size:14.9518px;}
+	.st0{fill:#007DC3;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'GothamRounded-Medium';}
+	.st3{font-size:24px;}
+	.st4{font-family:'GothamRounded-Book';}
+	.st5{font-size:18px;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:4.994;stroke-linecap:round;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:4.994;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9955;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-width:5.0203;stroke-linecap:round;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:5.0203;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9374;}
+	.st11{fill:#D5E8FA;}
+	.st12{clip-path:url(#SVGID_2_);}
+	.st13{fill:#FFFFFF;stroke:#D5E8FA;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#9AC4EB;stroke-width:0.7087;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#9AC4EB;stroke-width:0.7087;stroke-miterlimit:10;stroke-dasharray:2.8441,2.8441;}
+	.st16{fill:#9AC4EB;}
+	.st17{font-size:8.5437px;}
+	.st18{display:none;fill:#9AC4EB;}
+	.st19{fill:#9AC4EB;stroke:#FFFFFF;stroke-width:0.7087;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#D5E8FA;stroke-miterlimit:10;}
+	.st21{fill:none;}
+	.st22{font-size:9.154px;}
+	.st23{fill:#FFFFFF;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
+	.st24{fill:#9AC4EB;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
+	.st25{fill:#007DC3;stroke:#007DC3;stroke-width:0.9523;stroke-miterlimit:10;}
+	.st26{letter-spacing:2;}
+	.st27{fill:none;stroke:#FFFFFF;stroke-width:0.7087;stroke-miterlimit:10;}
+	.st28{clip-path:url(#SVGID_4_);}
+	.st29{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;}
+	.st30{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.1235,2.1235;}
+	.st31{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6878,2.6878;}
+	.st32{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8626,2.8626;}
+	.st33{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8188,2.8188;}
+	.st34{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6524,2.6524;}
+	.st35{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0275,3.0275;}
+	.st36{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.1395,3.1395;}
+	.st37{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4486,2.4486;}
+	.st38{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9743,2.9743;}
+	.st39{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.8592,1.8592;}
+	.st40{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4519,2.4519;}
+	.st41{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7939,2.7939;}
+	.st42{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.6148,3.6148;}
+	.st43{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.4897,1.4897;}
+	.st44{fill:none;stroke:#9AC4EB;stroke-width:0.6248;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8717,2.8717;}
+	.st45{display:none;}
+	.st46{display:inline;}
+	.st47{display:inline;fill:none;}
+	.st48{font-size:14.9518px;}
 
-		.st50{display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25.5118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st51{font-size:14px;}
-	.st52{display:inline;fill:#FFFFFF;}
+		.st49{display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25.5118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st50{font-size:14px;}
+	.st51{display:inline;fill:#FFFFFF;}
+	.st52{display:inline;fill:#007DC3;}
 	.st53{clip-path:url(#SVGID_6_);fill:#007DC3;}
 	.st54{clip-path:url(#SVGID_8_);fill:#FFFFFF;}
 	.st55{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:25.5118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st56{clip-path:url(#SVGID_10_);fill:#007DC3;}
 	.st57{clip-path:url(#SVGID_12_);fill:#FFFFFF;}
 </style>
-<g id="Tausta" class="st0">
-	<rect x="0" y="0" class="st1" width="2296.1" height="467.7"/>
+<g id="Tausta">
+	<rect x="0" y="0" class="st0" width="2296.1" height="467.7"/>
 </g>
 <g id="Infoalue">
 	<g id="HSL_www">
 		<g>
-			<path class="st2" d="M301.5,154.5c0-1.6,1.3-2.9,2.9-2.9c1.6,0,2.9,1.3,2.9,2.9v20.2h29.6v-20.2c0-1.6,1.3-2.9,2.9-2.9
+			<path class="st1" d="M301.5,154.5c0-1.6,1.3-2.9,2.9-2.9c1.6,0,2.9,1.3,2.9,2.9v20.2h29.6v-20.2c0-1.6,1.3-2.9,2.9-2.9
 				c1.5,0,2.9,1.3,2.9,2.9v46c0,1.6-1.3,2.9-2.9,2.9c-1.6,0-2.9-1.3-2.9-2.9V180h-29.6v20.5c0,1.6-1.3,2.9-2.9,2.9
 				c-1.5,0-2.9-1.3-2.9-2.9V154.5z"/>
-			<path class="st2" d="M372.3,178c7.7,0,13.2-3.9,13.2-10.5v-0.1c0-6.3-4.8-10.1-13.1-10.1h-15.8V178H372.3z M350.8,154.8
+			<path class="st1" d="M372.3,178c7.7,0,13.2-3.9,13.2-10.5v-0.1c0-6.3-4.8-10.1-13.1-10.1h-15.8V178H372.3z M350.8,154.8
 				c0-1.6,1.3-2.9,2.9-2.9h19.2c6.3,0,11.3,1.9,14.6,5.1c2.5,2.5,4,6.1,4,10.1v0.1c0,8.4-5.7,13.3-13.7,14.8l12.7,16.4
 				c0.6,0.7,1,1.3,1,2.1c0,1.5-1.5,2.9-2.9,2.9c-1.2,0-2.1-0.7-2.7-1.5l-14.4-18.7h-14.7v17.3c0,1.6-1.3,2.9-2.9,2.9
 				c-1.5,0-2.9-1.3-2.9-2.9V154.8z"/>
-			<path class="st2" d="M411.1,157.2h-14.9c-1.5,0-2.7-1.2-2.7-2.6c0-1.5,1.2-2.7,2.7-2.7h35.6c1.5,0,2.7,1.2,2.7,2.7
+			<path class="st1" d="M411.1,157.2h-14.9c-1.5,0-2.7-1.2-2.7-2.6c0-1.5,1.2-2.7,2.7-2.7h35.6c1.5,0,2.7,1.2,2.7,2.7
 				c0,1.5-1.2,2.6-2.7,2.6H417v43.3c0,1.6-1.3,2.9-2.9,2.9c-1.6,0-2.9-1.3-2.9-2.9V157.2z"/>
-			<path class="st2" d="M300.4,97.7c0-3.1,2.5-5.6,5.6-5.6c3.1,0,5.6,2.5,5.6,5.6v15.1h20.8V97.7c0-3.1,2.5-5.6,5.6-5.6
+			<path class="st1" d="M300.4,97.7c0-3.1,2.5-5.6,5.6-5.6c3.1,0,5.6,2.5,5.6,5.6v15.1h20.8V97.7c0-3.1,2.5-5.6,5.6-5.6
 				c3.2,0,5.6,2.5,5.6,5.6v40.8c0,3.1-2.5,5.6-5.6,5.6c-3.1,0-5.6-2.5-5.6-5.6v-15.3h-20.8v15.3c0,3.1-2.5,5.6-5.6,5.6
 				c-3.1,0-5.6-2.5-5.6-5.6V97.7z"/>
-			<path class="st2" d="M352.5,138.3c-1.2-0.9-2.1-2.5-2.1-4.2c0-2.9,2.3-5.2,5.3-5.2c1.5,0,2.5,0.5,3.2,1c3.9,2.9,8.1,4.6,13.1,4.6
+			<path class="st1" d="M352.5,138.3c-1.2-0.9-2.1-2.5-2.1-4.2c0-2.9,2.3-5.2,5.3-5.2c1.5,0,2.5,0.5,3.2,1c3.9,2.9,8.1,4.6,13.1,4.6
 				c4.6,0,7.4-1.8,7.4-4.8v-0.1c0-2.8-1.8-4.3-10.3-6.5c-10.3-2.6-17-5.5-17-15.6v-0.1c0-9.3,7.5-15.4,17.9-15.4
 				c6.2,0,11.6,1.6,16.2,4.5c1.2,0.7,2.5,2.3,2.5,4.5c0,2.9-2.3,5.2-5.3,5.2c-1.1,0-2-0.3-2.9-0.8c-3.7-2.2-7.2-3.4-10.8-3.4
 				c-4.3,0-6.6,2-6.6,4.5v0.1c0,3.4,2.2,4.5,11.1,6.7c10.4,2.7,16.2,6.4,16.2,15.3v0.1c0,10.2-7.8,15.9-18.8,15.9
 				C365.1,144.4,358.2,142.4,352.5,138.3"/>
-			<path class="st2" d="M397.3,97.7c0-3.1,2.5-5.6,5.6-5.6c3.1,0,5.6,2.5,5.6,5.6v35.7h20.9c2.9,0,5.1,2.3,5.1,5.1
+			<path class="st1" d="M397.3,97.7c0-3.1,2.5-5.6,5.6-5.6c3.1,0,5.6,2.5,5.6,5.6v35.7h20.9c2.9,0,5.1,2.3,5.1,5.1
 				c0,2.8-2.3,5.1-5.1,5.1h-26.5c-3.1,0-5.6-2.5-5.6-5.6V97.7z"/>
-			<path class="st2" d="M196.4,152.2c-0.2,0-5.2-0.1-7.6-4.3c2.5-4.1,7.4-4.3,7.7-4.3c4,0,7,1.8,7,4.3
+			<path class="st1" d="M196.4,152.2c-0.2,0-5.2-0.1-7.6-4.3c2.5-4.1,7.4-4.3,7.7-4.3c4,0,7,1.8,7,4.3
 				C203.4,150.3,200.4,152.2,196.4,152.2 M185.3,191c-1.8,1.8-5.1,1-8-1.9c-0.2-0.2-3.6-3.7-2.3-8.5c4.7-1.1,8.2,2.2,8.4,2.4
 				C186.2,185.9,187,189.3,185.3,191 M141.9,208.8c-2.5,0-4.3-2.9-4.3-7c0-0.2,0.1-5.2,4.3-7.6c4.1,2.5,4.3,7.4,4.3,7.7
 				C146.2,205.9,144.4,208.8,141.9,208.8 M106.6,188.8c-2.9,2.8-6.2,3.6-8,1.9c-1.8-1.8-1-5.1,1.9-8c0.2-0.2,3.8-3.6,8.5-2.3
@@ -106,16 +106,16 @@
 				c5.9,0,10.1-5.4,10.1-12.8c0-0.3-0.1-5.9-4.1-10.2l20.8-8.5c0.1,5.9,4.1,10,4.4,10.2c5.3,5.2,12.1,6,16.2,1.9
 				c4.2-4.1,3.4-11-1.9-16.2c-0.2-0.2-4.2-4.1-10.1-4.3l8.7-20.7c4.3,4.1,10,4.1,10.3,4.1c7.4,0,12.8-4.3,12.8-10.1
 				C209.2,142,203.8,137.7,196.4,137.7"/>
-			<path class="st2" d="M245.5,83.5c0-1.6-1.3-2.9-2.9-2.9c-1.5,0-2.9,1.3-2.9,2.9v128.1c0,1.6,1.3,2.9,2.9,2.9
+			<path class="st1" d="M245.5,83.5c0-1.6-1.3-2.9-2.9-2.9c-1.5,0-2.9,1.3-2.9,2.9v128.1c0,1.6,1.3,2.9,2.9,2.9
 				c1.6,0,2.9-1.3,2.9-2.9V83.5z"/>
-			<path class="st2" d="M257,83.5c0-1.6-1.3-2.9-2.9-2.9c-1.5,0-2.9,1.3-2.9,2.9v128.1c0,1.6,1.3,2.9,2.9,2.9c1.6,0,2.9-1.3,2.9-2.9
+			<path class="st1" d="M257,83.5c0-1.6-1.3-2.9-2.9-2.9c-1.5,0-2.9,1.3-2.9,2.9v128.1c0,1.6,1.3,2.9,2.9,2.9c1.6,0,2.9-1.3,2.9-2.9
 				V83.5z"/>
 		</g>
 	</g>
 	<g id="Asiakaspalvelu">
-		<text transform="matrix(1 0 0 1 1909.9465 187.9906)"><tspan x="0" y="0" class="st2 st3 st4">HSL Asiakaspalvelu</tspan><tspan x="0" y="21.6" class="st2 st5 st6">HRT Kundservice</tspan><tspan x="0" y="43.2" class="st2 st5 st6">HSL Customer Service</tspan><tspan x="0" y="78.2" class="st2 st3 st4">09 4766 4000</tspan><tspan x="0" y="108.8" class="st2 st3 st6">Ma-pe 7-19, la-su 9-17</tspan><tspan x="0" y="130.4" class="st2 st5 st6">Mån-fre 7-19, lör-sön 9-17</tspan><tspan x="0" y="152" class="st2 st5 st6">Mon-Fri 7am-7pm, Sat-Sun 9am-5pm</tspan><tspan x="0" y="208.1" class="st2 st3 st6">hsl.fi</tspan><tspan x="0" y="236.2" class="st2 st3 st6"> </tspan></text>
-		<text transform="matrix(1 0 0 1 1909.9465 72.0063)"><tspan x="0" y="0" class="st2 st3 st4">Reitit ja aikataulut</tspan><tspan x="0" y="21.6" class="st2 st3 st6">Rutter och tidtabeller</tspan><tspan x="0" y="49.6" class="st2 st3 st6">reittiopas.fi</tspan></text>
-		<path class="st2" d="M1829.7,193.2h-3.3c-2,0-3.6-1.6-3.6-3.6v-7.9c0-2,1.6-3.6,3.6-3.6h4.5c-1.3,2.8-2,5.9-2,9.2
+		<text transform="matrix(1 0 0 1 1909.9465 187.9906)"><tspan x="0" y="0" class="st1 st2 st3">HSL Asiakaspalvelu</tspan><tspan x="0" y="21.6" class="st1 st4 st5">HRT Kundservice</tspan><tspan x="0" y="43.2" class="st1 st4 st5">HSL Customer Service</tspan><tspan x="0" y="78.2" class="st1 st2 st3">09 4766 4000</tspan><tspan x="0" y="108.8" class="st1 st2 st5">Ma-pe 7-19, la-su 9-17</tspan><tspan x="0" y="130.4" class="st1 st4 st5">Mån-fre 7-19, lör-sön 9-17</tspan><tspan x="0" y="152" class="st1 st4 st5">Mon-Fri 7am-7pm, Sat-Sun 9am-5pm</tspan><tspan x="0" y="208.1" class="st1 st2 st5">hsl.fi</tspan><tspan x="0" y="236.2" class="st1 st2 st5"> </tspan></text>
+		<text transform="matrix(1 0 0 1 1909.9465 72.0063)"><tspan x="0" y="0" class="st1 st2 st3">Reitit ja aikataulut</tspan><tspan x="0" y="21.6" class="st1 st2 st5">Rutter och tidtabeller</tspan><tspan x="0" y="49.6" class="st1 st2 st5">reittiopas.fi</tspan></text>
+		<path class="st1" d="M1829.7,193.2h-3.3c-2,0-3.6-1.6-3.6-3.6v-7.9c0-2,1.6-3.6,3.6-3.6h4.5c-1.3,2.8-2,5.9-2,9.2
 			C1828.8,189.3,1829.1,191.3,1829.7,193.2 M1851.2,206.9c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4
 			C1855.2,208.7,1853.4,206.9,1851.2,206.9 M1875.4,178h-4.5c1.3,2.8,2,5.9,2,9.2c0,2.1-0.3,4.1-0.9,6.1h1.4
 			c-2.1,7.6-8,13.7-15.6,16c0.1,0.5,0.2,1.1,0.2,1.7c0,0.4,0,0.9-0.1,1.3c9.1-2.6,16.3-9.9,18.5-19.2c1.5-0.5,2.6-1.9,2.6-3.5v-7.9
@@ -126,7 +126,7 @@
 			c-0.4-0.4-0.9-0.4-1.3,0c-0.4,0.4-0.4,0.9,0,1.3c1.5,1.5,3.4,2.3,5.5,2.3s4-0.8,5.5-2.3C1856.7,197,1856.7,196.4,1856.3,196.1
 			 M1860.7,183.2c0-2.1-1-3.3-2.2-3.3c-1.2,0-2.2,1.1-2.2,3.3c0,2.1,1,3.3,2.2,3.3C1859.7,186.5,1860.7,185.4,1860.7,183.2"/>
 		<g>
-			<path class="st7" d="M1836.1,62.3c-8,0-14.4,6.4-14.4,14.2c0,7.8,14.4,28.4,14.4,28.4s14.4-20.6,14.4-28.4
+			<path class="st6" d="M1836.1,62.3c-8,0-14.4,6.4-14.4,14.2c0,7.8,14.4,28.4,14.4,28.4s14.4-20.6,14.4-28.4
 				C1850.5,68.7,1844,62.3,1836.1,62.3 M1836.1,82.8c-3.5,0-6.4-2.8-6.4-6.3c0-3.5,2.9-6.3,6.4-6.3c3.5,0,6.4,2.8,6.4,6.3
 				C1842.5,80,1839.6,82.8,1836.1,82.8 M1881,54.1c-4.7,0-8.5,3.7-8.5,8.3c0,4.6,8.5,16.6,8.5,16.6s8.5-12,8.5-16.6
 				C1889.4,57.9,1885.6,54.1,1881,54.1 M1881,66.1c-2.1,0-3.8-1.7-3.8-3.7c0-2,1.7-3.7,3.8-3.7c2.1,0,3.8,1.7,3.8,3.7
@@ -140,22 +140,22 @@
 	<g id="Jakoviivat_ala">
 		<g>
 			<g>
-				<line class="st8" x1="53.5" y1="13.5" x2="53.5" y2="13.5"/>
-				<line class="st9" x1="63.5" y1="13.5" x2="2237.5" y2="13.5"/>
-				<line class="st8" x1="2242.5" y1="13.5" x2="2242.5" y2="13.5"/>
+				<line class="st7" x1="53.5" y1="13.5" x2="53.5" y2="13.5"/>
+				<line class="st8" x1="63.5" y1="13.5" x2="2237.5" y2="13.5"/>
+				<line class="st7" x1="2242.5" y1="13.5" x2="2242.5" y2="13.5"/>
 			</g>
 		</g>
 		<g>
 			<g>
-				<line class="st10" x1="1783.4" y1="56.4" x2="1783.4" y2="56.4"/>
-				<line class="st11" x1="1783.4" y1="66.4" x2="1783.4" y2="389.3"/>
-				<line class="st10" x1="1783.4" y1="394.3" x2="1783.4" y2="394.3"/>
+				<line class="st9" x1="1783.4" y1="56.4" x2="1783.4" y2="56.4"/>
+				<line class="st10" x1="1783.4" y1="66.4" x2="1783.4" y2="389.3"/>
+				<line class="st9" x1="1783.4" y1="394.3" x2="1783.4" y2="394.3"/>
 			</g>
 		</g>
 	</g>
 	<g id="Lippuvyöhykkeet_1_">
 		<g>
-			<path class="st12" d="M1751.8,372.1c0,13.6-11.2,24.8-24.8,24.8h-341.6c-13.6,0-24.8-11.2-24.8-24.8V64.5
+			<path class="st11" d="M1751.8,372.1c0,13.6-11.2,24.8-24.8,24.8h-341.6c-13.6,0-24.8-11.2-24.8-24.8V64.5
 				c0-13.6,11.2-24.8,24.8-24.8H1727c13.6,0,24.8,11.2,24.8,24.8V372.1z"/>
 		</g>
 		<g>
@@ -165,16 +165,16 @@
 			<clipPath id="SVGID_2_">
 				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 			</clipPath>
-			<g id="Knummi" class="st13">
-				<polygon class="st14" points="1508.4,305.5 1509.4,306.5 1508.9,308 1509.4,307.5 1511.4,306 1512.4,306 1512.9,307
+			<g id="Knummi" class="st12">
+				<polygon class="st13" points="1508.4,305.5 1509.4,306.5 1508.9,308 1509.4,307.5 1511.4,306 1512.4,306 1512.9,307
 					1508.9,311.5 1507.9,312 1505.9,310.5 1505.9,307.5 1506.9,305.5 1508.4,305.5 				"/>
-				<polygon class="st14" points="1509.9,298.9 1510.9,295.4 1512.4,293.4 1513.4,292.9 1514.4,292.9 1515.5,294.9 1516.5,295.9
+				<polygon class="st13" points="1509.9,298.9 1510.9,295.4 1512.4,293.4 1513.4,292.9 1514.4,292.9 1515.5,294.9 1516.5,295.9
 					1516,297.9 1514.9,300.4 1512.4,301.5 1511.4,302 1508.4,302.5 1508.4,301.5 1509.9,298.9 				"/>
-				<polygon class="st14" points="1507.4,294.9 1506.9,298.9 1503.4,299.4 1503.4,300.4 1504.9,302.5 1502.9,305 1500.4,306
+				<polygon class="st13" points="1507.4,294.9 1506.9,298.9 1503.4,299.4 1503.4,300.4 1504.9,302.5 1502.9,305 1500.4,306
 					1499.4,304 1495.4,303.5 1495.4,301.5 1497.4,300.9 1499.4,297.9 1505.4,294.9 1507.4,294.9 				"/>
-				<polygon class="st14" points="1495.4,314.5 1498.4,314 1502.4,315.5 1502.9,316.5 1501.9,318 1500.9,318 1500.4,317.5
+				<polygon class="st13" points="1495.4,314.5 1498.4,314 1502.4,315.5 1502.9,316.5 1501.9,318 1500.9,318 1500.4,317.5
 					1499.4,317.5 1497.9,319 1496.4,319.5 1495.4,321 1492.4,320.5 1491.4,319.5 1491.4,318.5 1495.4,314.5 				"/>
-				<polygon class="st14" points="1487.8,294.4 1486.3,295.9 1486.3,296.4 1487.8,295.9 1491.9,294.4 1493.9,292.4 1495.9,290.9
+				<polygon class="st13" points="1487.8,294.4 1486.3,295.9 1486.3,296.4 1487.8,295.9 1491.9,294.4 1493.9,292.4 1495.9,290.9
 					1497.4,289.4 1499.4,288.4 1500.9,288.4 1501.9,290.4 1503.9,289.9 1503.9,287.9 1504.9,287.4 1505.4,287.9 1506.4,290.4
 					1507.4,293.9 1502.9,294.4 1501.4,293.9 1499.9,294.9 1494.9,296.9 1491.9,299.9 1494.4,302.5 1495.4,305 1499.9,306
 					1499.9,309 1497.4,310 1496.9,312.5 1494.9,313.5 1492.9,314.5 1491.4,315.5 1490.9,315.5 1490.3,316 1489.8,316.5
@@ -206,12 +206,12 @@
 					1494.9,267.8 1497.9,269.3 1498.9,270.3 1499.9,272.3 1500.4,273.8 1500.9,275.3 1502.4,277.4 1502.4,278.9 1503.4,280.4
 					1502.9,280.9 1500.9,281.4 1499.9,282.4 1499.9,283.9 1499.9,284.4 1499.9,284.9 1499.4,285.9 1498.4,286.9 1495.9,288.9
 					1493.4,289.9 1489.8,292.9 				"/>
-				<polygon class="st14" points="1488.3,320 1489.8,320 1491.9,321 1492.4,322 1494.4,322.5 1494.4,323.5 1492.9,324.5
+				<polygon class="st13" points="1488.3,320 1489.8,320 1491.9,321 1492.4,322 1494.4,322.5 1494.4,323.5 1492.9,324.5
 					1493.4,326.6 1492.9,327.6 1489.3,328.1 1488.3,326 1486.3,326.6 1485.8,327.6 1483.8,327.6 1484.3,325.5 1487.3,322
 					1488.3,320 				"/>
 			</g>
-			<g id="Siuntio" class="st13">
-				<path class="st2" d="M1337.2,249.1c0.1,0,0.3,0.1,0.3,0.1c0,0,0.1,0,0.1,0s0.2,0,0.4,0.1c0.2,0.1,0.4,0.3,0.4,0.3s0,0.1,0.1,0.1
+			<g id="Siuntio" class="st12">
+				<path class="st1" d="M1337.2,249.1c0.1,0,0.3,0.1,0.3,0.1c0,0,0.1,0,0.1,0s0.2,0,0.4,0.1c0.2,0.1,0.4,0.3,0.4,0.3s0,0.1,0.1,0.1
 					c0,0,0.1,0,0.1,0c0,0,0.1,0,0.1,0s0.1,0,0.1,0s0.1,0,0.1,0.1s0,0.1,0,0.2s0,0.5,0.1,0.9c0,0.4,0.1,0.9,0.1,1.2s0,0.7-0.1,1
 					c0,0.3-0.1,0.7-0.1,0.8s0,0.3,0,0.4s0,0.2-0.1,0.2s-0.1,0.2-0.1,0.3s0,0.4-0.1,0.7s0,0.5,0,0.5c0,0,0.1,0.1,0.1,0.2
 					s0.2,0.4,0.4,0.7c0.2,0.3,0.3,0.8,0.2,1c0,0.2-0.1,0.5-0.1,0.7s-0.1,0.4-0.1,0.6c0,0.2-0.1,0.4-0.1,0.5c0,0.1-0.1,0.2-0.1,0.4
@@ -310,10 +310,10 @@
 					c0,0-0.1,0-0.1,0s-0.1,0-0.1-0.1s0,0-0.1,0s-0.1,0.1-0.1,0.1c0,0-0.1,0-0.1,0c0,0-0.1,0.1-0.2,0.2c-0.1,0.1-0.3,0.4-0.4,0.6
 					c-0.2,0.2-0.5,0.5-0.7,0.7s-0.6,0.7-1,1c-0.3,0.4-0.5,0.7-0.4,0.7C1336.9,249,1337.1,249.1,1337.2,249.1z"/>
 				<g>
-					<path class="st15" d="M1415,303.3c1.3,0.6,1.3,0.6,1.3,0.6c0.4,0.3,0.8,0.6,1.1,0.9"/>
-					<path class="st15" d="M1417.2,306.5c-0.3,0.3-0.5,0.8-0.3,1.3c0,0,0,0,1.4-0.1"/>
-					<path class="st15" d="M1420.7,306.2c0-0.1,0-0.1,0-0.2c-0.2-1.2-0.2-1.2-0.2-1.2c0.1-0.5,0.2-1,0.3-1.4"/>
-					<path class="st16" d="M1421.2,300.6c0-0.1,0-0.1,0-0.2c-0.1-0.7,0.4-2.5,1.1-4l1.2-2.4c0.7-1.4,1.5-3.7,1.8-4.9
+					<path class="st14" d="M1415,303.3c1.3,0.6,1.3,0.6,1.3,0.6c0.4,0.3,0.8,0.6,1.1,0.9"/>
+					<path class="st14" d="M1417.2,306.5c-0.3,0.3-0.5,0.8-0.3,1.3c0,0,0,0,1.4-0.1"/>
+					<path class="st14" d="M1420.7,306.2c0-0.1,0-0.1,0-0.2c-0.2-1.2-0.2-1.2-0.2-1.2c0.1-0.5,0.2-1,0.3-1.4"/>
+					<path class="st15" d="M1421.2,300.6c0-0.1,0-0.1,0-0.2c-0.1-0.7,0.4-2.5,1.1-4l1.2-2.4c0.7-1.4,1.5-3.7,1.8-4.9
 						c0.2-1.3,0.1-3.6-0.4-5.1l-5.9-21.2c-0.4-1.6-1.5-4-2.3-5.3l-5.1-8.3c-0.8-1.4-1-3.7-0.3-5.2l12.4-26.3
 						c0.7-1.5,1.6-2.9,2.1-3.3s0.7-1,0.6-1.5s-0.2-1-0.2-1s0-0.1,0-0.2c0-0.1,0-0.2-0.1-0.3s-0.2-0.5-0.3-1c-0.1-0.5-0.3-1-0.3-1.3
 						c0-0.2-0.1-0.4-0.1-0.5s0-0.3-0.1-0.5s-0.1-0.5-0.2-0.7c-0.1-0.2-0.1-0.4-0.1-0.5s0-0.2-0.1-0.3c0-0.1-0.1-0.2-0.1-0.2
@@ -416,18 +416,18 @@
 						c0-0.7-0.5-2.4-1.1-3.9c0,0-0.4-0.9,2.4,0.5c0.1,0,0.2,0.1,0.2,0.1"/>
 				</g>
 			</g>
-			<g class="st13">
-				<text transform="matrix(1 0 0 1 1376.0571 246.2956)"><tspan x="0" y="0" class="st17 st5 st18">Siuntio</tspan><tspan x="0" y="8.9" class="st17 st5 st18">Sjundeå</tspan><tspan x="0" y="17.7" class="st17 st5 st18">2018-</tspan></text>
+			<g class="st12">
+				<text transform="matrix(1 0 0 1 1376.0571 246.2956)"><tspan x="0" y="0" class="st16 st4 st17">Siuntio</tspan><tspan x="0" y="8.9" class="st16 st4 st17">Sjundeå</tspan><tspan x="0" y="17.7" class="st16 st4 st17">2018-</tspan></text>
 			</g>
-			<g class="st13">
-				<text transform="matrix(1 0 0 1 1435.0493 281.3192)"><tspan x="0" y="0" class="st19 st5 st18">Kirkkonummi</tspan><tspan x="0" y="8.9" class="st19 st5 st18">Kyrkslätt</tspan></text>
+			<g class="st12">
+				<text transform="matrix(1 0 0 1 1435.0493 281.3192)"><tspan x="0" y="0" class="st0 st4 st17">Kirkkonummi</tspan><tspan x="0" y="8.9" class="st0 st4 st17">Kyrkslätt</tspan></text>
 			</g>
-			<g id="Espoo" class="st13">
-				<polygon class="st20" points="1509.5,284.7 1511.1,282.5 1512.7,282.5 1514.9,283.6 1516,283.6 1517.6,282 1518.7,282
+			<g id="Espoo" class="st12">
+				<polygon class="st18" points="1509.5,284.7 1511.1,282.5 1512.7,282.5 1514.9,283.6 1516,283.6 1517.6,282 1518.7,282
 					1519.7,282 1520.3,282.5 1520.3,285.2 1520.8,286.3 1519.2,288.4 1517.1,287.4 1518.1,289 1518.1,290.1 1519.7,289.5
 					1521.4,289.5 1521.4,291.1 1518.1,294.9 1511.7,298.7 1510.1,297.6 1510.1,295.4 1507.9,296.5 1505.8,296.5 1505.2,296
 					1506.8,293.8 1510.1,292.7 1512.2,289 1513.3,288.4 1513.3,287.4 1509.5,285.8 1509.5,284.7 				"/>
-				<polygon class="st17" points="1538.5,167.9 1537.5,178.4 1541.6,176.9 1544.6,192 1542.1,206.6 1543.1,208.1 1542.6,208.6
+				<polygon class="st16" points="1538.5,167.9 1537.5,178.4 1541.6,176.9 1544.6,192 1542.1,206.6 1543.1,208.1 1542.6,208.6
 					1542.6,210.1 1543.1,211.1 1543.6,212.1 1546.6,222.6 1559.6,216.1 1560.1,220.1 1560.6,223.1 1560.1,225.6 1559.6,228.2
 					1560.6,232.2 1562.1,234.7 1562.1,235.2 1562.6,240.2 1562.1,241.2 1561.1,242.2 1559.1,243.2 1557.6,245.7 1557.1,246.2
 					1556.1,246.7 1555.1,247.2 1554.6,251.2 1556.1,252.2 1559.1,252.2 1559.6,250.7 1560.1,250.2 1561.1,250.7 1561.1,253.8
@@ -442,27 +442,27 @@
 					1473.3,244.7 1477.3,244.7 1477.8,239.7 1474.8,239.7 1469.3,235.7 1472.8,228.2 1475.3,225.6 1475.8,217.1 1470.8,211.6
 					1470.8,202 1473.8,198 1473.8,197.5 1470.8,173.4 1486.8,180.5 1496.4,175.9 1500.4,169.9 1504.9,157.4 1506.4,157.4
 					1516,155.4 1516.5,153.8 1518.5,155.4 1520.5,157.4 1523,158.9 1525,160.4 1526,160.4 1538.5,167.9 				"/>
-				<text transform="matrix(1 0 0 1 1497.9727 213.9325)"><tspan x="0" y="0" class="st2 st5 st18">Espoo</tspan><tspan x="0" y="8.9" class="st2 st5 st18">Esbo</tspan></text>
+				<text transform="matrix(1 0 0 1 1497.9727 213.9325)"><tspan x="0" y="0" class="st1 st4 st17">Espoo</tspan><tspan x="0" y="8.9" class="st1 st4 st17">Esbo</tspan></text>
 			</g>
-			<g id="Hki" class="st13">
-				<polygon class="st19" points="1660.5,220.6 1664.1,220.1 1668.6,219.6 1670.6,222.6 1668.6,224.6 1664.6,224.6 1660,222.1
+			<g id="Hki" class="st12">
+				<polygon class="st0" points="1660.5,220.6 1664.1,220.1 1668.6,219.6 1670.6,222.6 1668.6,224.6 1664.6,224.6 1660,222.1
 					1660.5,220.6 				"/>
-				<polygon class="st19" points="1632.4,270.8 1633.4,269.3 1636.9,269.8 1638,270.8 1641,270.3 1644,270.8 1644,272.3 1643,273.3
+				<polygon class="st0" points="1632.4,270.8 1633.4,269.3 1636.9,269.8 1638,270.8 1641,270.3 1644,270.8 1644,272.3 1643,273.3
 					1640,273.3 1638.5,274.8 1633.4,275.3 1631.4,273.8 1629.9,273.8 1628.9,273.3 1628.9,272.3 1629.9,271.3 1632.4,270.8 				"/>
-				<polygon class="st19" points="1565.7,263.3 1567.2,263.3 1567.7,265.3 1570.2,266.8 1571.2,265.8 1572.7,265.8 1575.7,267.3
+				<polygon class="st0" points="1565.7,263.3 1567.2,263.3 1567.7,265.3 1570.2,266.8 1571.2,265.8 1572.7,265.8 1575.7,267.3
 					1575.7,270.3 1574.2,270.3 1573.7,270.8 1574.2,272.8 1574.7,274.3 1574.2,276.9 1573.7,277.4 1570.2,277.9 1569.2,277.4
 					1570.2,275.3 1569.7,272.3 1565.7,273.3 1564.2,272.3 1565.7,269.3 1565.2,267.8 1563.6,266.8 1563.6,266.3 1565.2,265.3
 					1565.7,263.3 				"/>
-				<polygon class="st19" points="1606.8,253.8 1608.3,254.8 1608.8,259.8 1607.3,259.8 1605.3,257.8 1602.8,256.3 1602.8,255.3
+				<polygon class="st0" points="1606.8,253.8 1608.3,254.8 1608.8,259.8 1607.3,259.8 1605.3,257.8 1602.8,256.3 1602.8,255.3
 					1605.3,253.3 1606.8,253.8 				"/>
-				<polygon class="st19" points="1616.9,272.3 1622.4,274.3 1622.9,275.3 1624.4,275.8 1626.4,276.9 1626.4,278.4 1620.4,278.9
+				<polygon class="st0" points="1616.9,272.3 1622.4,274.3 1622.9,275.3 1624.4,275.8 1626.4,276.9 1626.4,278.4 1620.4,278.9
 					1619.4,279.4 1621.4,281.9 1620.9,283.4 1618.4,283.9 1616.4,283.4 1612.3,285.4 1611.3,285.4 1611.8,280.4 1610.3,279.4
 					1610.3,278.4 1612.3,276.3 1614.4,275.3 1616.9,272.3 				"/>
-				<polygon class="st19" points="1615.9,259.3 1616.4,258.3 1615.4,256.3 1615.9,255.8 1617.9,255.8 1618.9,255.8 1620.9,256.8
+				<polygon class="st0" points="1615.9,259.3 1616.4,258.3 1615.4,256.3 1615.9,255.8 1617.9,255.8 1618.9,255.8 1620.9,256.8
 					1621.9,258.3 1621.9,260.8 1620.9,261.3 1620.9,263.8 1622.4,264.8 1621.9,266.3 1618.9,266.3 1618.4,267.8 1621.4,267.3
 					1623.4,266.3 1625.4,263.8 1626.9,264.3 1627.4,266.8 1628.4,266.3 1629.9,267.3 1630.4,269.8 1623.9,272.3 1618.4,271.8
 					1614.9,269.8 1611.8,269.8 1609.8,268.8 1607.3,268.3 1606.3,264.3 1607.8,262.3 1612.3,258.8 1615.9,259.3 				"/>
-				<polygon class="st19" points="1668.6,195.5 1671.1,197 1675.1,195.5 1675.6,197 1673.1,198 1675.1,200 1672.6,202.5
+				<polygon class="st0" points="1668.6,195.5 1671.1,197 1675.1,195.5 1675.6,197 1673.1,198 1675.1,200 1672.6,202.5
 					1673.6,203.6 1673.1,206.1 1672.6,206.1 1674.6,207.6 1674.1,208.6 1672.1,209.6 1670.1,209.6 1669.1,212.1 1669.1,213.1
 					1669.1,214.6 1668.6,215.1 1667.6,215.6 1670.6,217.1 1671.6,217.1 1666.1,218.1 1663.6,219.1 1660,219.1 1658.5,222.6
 					1657,222.6 1657,223.6 1664.1,225.1 1665.1,226.1 1665.1,227.1 1660,227.1 1660,227.6 1662,228.2 1662.5,229.7 1662,231.2
@@ -492,8 +492,8 @@
 					1644.5,213.1 1644.5,210.1 1657,205.1 1658,201.5 1659.5,203.6 1659.5,203 1662,201.5 1661,200.5 1666.6,199 1667.6,197.5
 					1668.6,196.5 1668.1,196 1668.6,195.5 				"/>
 			</g>
-			<g id="Vantaa_1_" class="st13">
-				<polygon id="Vantaa" class="st21" points="1589.8,168.9 1594.3,174.4 1607.8,173.9 1619.4,166.9 1619.4,166.4 1612.8,156.9
+			<g id="Vantaa_1_" class="st12">
+				<polygon id="Vantaa" class="st19" points="1589.8,168.9 1594.3,174.4 1607.8,173.9 1619.4,166.9 1619.4,166.4 1612.8,156.9
 					1614.9,153.8 1618.4,156.4 1621.9,153.3 1625.4,155.9 1626.9,154.3 1627.9,154.9 1628.9,153.8 1630.9,155.9 1630.4,156.9
 					1637.4,157.9 1641.5,160.4 1644.5,160.4 1644.5,161.4 1648,161.4 1644,166.4 1644.5,167.9 1648,169.4 1648,173.4 1646.5,174.9
 					1641,174.9 1641,173.4 1642.5,172.4 1642.5,171.9 1640.5,171.4 1640,170.9 1639,172.9 1633.9,172.4 1642.5,182 1652,188
@@ -506,21 +506,21 @@
 					1570.2,217.1 1566.7,216.6 1560.1,214.1 1560.1,216.1 1559.6,216.1 1546.6,222.6 1543.6,212.1 1543.1,211.1 1542.6,210.1
 					1542.6,208.6 1543.1,208.1 1542.1,206.6 1544.6,192 1541.6,176.9 1537.5,178.4 1538.5,167.9 1540.6,165.4 1561.1,139.8
 					1571.7,135.8 1572.7,140.3 1573.7,141.8 1574.2,145.3 1576.2,147.8 1589.8,168.9 				"/>
-				<text transform="matrix(1 0 0 1 1572.8057 187.7538)"><tspan x="0" y="0" class="st2 st5 st18">Vantaa</tspan><tspan x="0" y="8.9" class="st2 st5 st18">Vanda</tspan></text>
+				<text transform="matrix(1 0 0 1 1572.8057 187.7538)"><tspan x="0" y="0" class="st1 st4 st17">Vantaa</tspan><tspan x="0" y="8.9" class="st1 st4 st17">Vanda</tspan></text>
 			</g>
-			<g id="Kaunianen" class="st13">
-				<polygon class="st19" points="1517,240.7 1516,239.7 1518,235.2 1524,233.2 1526,232.7 1525.5,230.2 1528,229.2 1529,232.2
+			<g id="Kaunianen" class="st12">
+				<polygon class="st0" points="1517,240.7 1516,239.7 1518,235.2 1524,233.2 1526,232.7 1525.5,230.2 1528,229.2 1529,232.2
 					1529.5,232.2 1530.5,232.7 1532.5,232.7 1533,234.2 1536,233.7 1537.5,235.2 1535,235.7 1533.5,241.2 1531.5,241.2
 					1530.5,241.7 1529.5,241.7 1528.5,242.7 1527,242.2 1527.5,240.7 1527,240.2 1526,240.7 1523.5,240.7 1522.5,240.2
 					1520.5,240.7 1518,241.2 1517,240.7 				"/>
-				<polygon id="Kauniainei" class="st21" points="1529.5,232.2 1530.5,232.7 1532.5,232.7 1533,234.2 1536,233.7 1537.5,235.2
+				<polygon id="Kauniainei" class="st19" points="1529.5,232.2 1530.5,232.7 1532.5,232.7 1533,234.2 1536,233.7 1537.5,235.2
 					1535,235.7 1533.5,241.2 1531.5,241.2 1530.5,241.7 1529.5,241.7 1528.5,242.7 1527,242.2 1527.5,240.7 1527,240.2 1526,240.7
 					1523.5,240.7 1522.5,240.2 1520.5,240.7 1518,241.2 1517,240.7 1516,239.7 1518,235.2 1524,233.2 1526,232.7 1525.5,230.2
 					1528,229.2 1529,232.2 1529.5,232.2 				"/>
-				<text transform="matrix(1 0 0 1 1499.1006 253.4032)"><tspan x="0" y="0" class="st2 st5 st18">Kauniainen</tspan><tspan x="0" y="8.9" class="st2 st5 st18">Grankulla</tspan></text>
+				<text transform="matrix(1 0 0 1 1499.1006 253.4032)"><tspan x="0" y="0" class="st1 st4 st17">Kauniainen</tspan><tspan x="0" y="8.9" class="st1 st4 st17">Grankulla</tspan></text>
 			</g>
-			<g id="Sipoo" class="st13">
-				<polygon class="st2" points="1719.3,174.9 1719.3,175.9 1733.3,199 1737.4,202.5 1738.4,205.1 1740.4,207.1 1740.9,206.1
+			<g id="Sipoo" class="st12">
+				<polygon class="st1" points="1719.3,174.9 1719.3,175.9 1733.3,199 1737.4,202.5 1738.4,205.1 1740.4,207.1 1740.9,206.1
 					1745.4,210.6 1745.4,212.1 1745.9,214.1 1745.4,216.6 1742.4,221.1 1741.4,222.6 1740.4,224.6 1738.9,225.1 1737.4,222.6
 					1737.4,221.1 1739.9,219.6 1739.9,218.1 1735.9,220.6 1734.3,220.1 1732.8,218.6 1733.3,221.6 1728.8,223.1 1729.3,218.1
 					1726.8,218.1 1722.8,216.6 1725.8,219.1 1727.3,223.6 1722.3,223.6 1721.8,222.1 1721.8,220.1 1720.3,219.6 1719.3,221.1
@@ -536,69 +536,69 @@
 					1650.5,125.7 1650,123.7 1650.5,122.2 1651,119.7 1650,118.7 1649,116.7 1648,115.2 1649.5,114.7 1648.5,104.6 1649,102.6
 					1649.5,100.1 1651,95.6 1653.5,88.1 1657.5,80.5 1661.5,81 1670.6,83.6 1674.1,88.1 1683.1,100.1 1684.6,104.1 1692.7,113.2
 					1694.2,116.7 1699.7,123.7 1703.7,130.3 1707.2,136.8 1707.2,153.3 1719.3,174.9 				"/>
-				<polygon class="st2" points="1728.3,225.6 1732.3,223.1 1735.3,223.1 1736.4,223.6 1736.9,224.6 1737.9,225.1 1738.4,226.1
+				<polygon class="st1" points="1728.3,225.6 1732.3,223.1 1735.3,223.1 1736.4,223.6 1736.9,224.6 1737.9,225.1 1738.4,226.1
 					1738.4,227.6 1733.8,228.2 1732.8,228.7 1733.3,231.2 1731.8,233.2 1730.3,234.2 1728.8,234.2 1727.8,232.2 1727.3,229.7
 					1728.3,225.6 				"/>
-				<polygon class="st2" points="1716.3,222.1 1718.8,223.1 1719.3,226.1 1720.8,226.6 1721.8,224.6 1726.8,226.1 1726.8,227.6
+				<polygon class="st1" points="1716.3,222.1 1718.8,223.1 1719.3,226.1 1720.8,226.6 1721.8,224.6 1726.8,226.1 1726.8,227.6
 					1726.3,229.7 1726.3,231.7 1726.8,231.7 1727.3,235.2 1726.3,237.7 1722.8,238.2 1721.3,237.7 1719.8,239.2 1718.8,239.7
 					1718.3,238.7 1718.3,238.2 1718.8,235.7 1718.8,231.2 1716.8,229.2 1716.8,225.6 1713.8,224.1 1713.8,223.6 1713.8,222.6
 					1716.3,222.1 				"/>
-				<polygon class="st2" points="1662.5,238.2 1663.6,238.2 1664.6,240.2 1666.1,240.2 1672.1,239.2 1673.1,239.2 1673.1,240.2
+				<polygon class="st1" points="1662.5,238.2 1663.6,238.2 1664.6,240.2 1666.1,240.2 1672.1,239.2 1673.1,239.2 1673.1,240.2
 					1671.6,243.2 1668.1,244.2 1666.1,246.2 1665.1,245.7 1665.1,243.2 1663.6,242.2 1662,239.7 1662.5,238.2 				"/>
-				<polygon class="st2" points="1697.7,225.6 1698.7,226.6 1699.7,229.2 1701.2,228.7 1704.2,229.2 1706.7,232.2 1706.2,233.7
+				<polygon class="st1" points="1697.7,225.6 1698.7,226.6 1699.7,229.2 1701.2,228.7 1704.2,229.2 1706.7,232.2 1706.2,233.7
 					1703.2,233.2 1703.2,234.2 1703.2,236.7 1701.7,237.7 1700.2,237.7 1700.2,238.7 1697.2,238.2 1696.7,236.7 1698.2,236.2
 					1698.2,232.2 1694.2,231.7 1693.2,230.2 1693.7,228.2 1696.7,226.1 1697.7,225.6 				"/>
-				<polygon class="st2" points="1668.1,231.2 1671.6,231.7 1672.6,231.2 1674.1,232.2 1674.1,234.7 1672.1,237.7 1668.1,238.7
+				<polygon class="st1" points="1668.1,231.2 1671.6,231.7 1672.6,231.2 1674.1,232.2 1674.1,234.7 1672.1,237.7 1668.1,238.7
 					1667.1,238.7 1664.6,237.2 1663.6,236.7 1664.1,233.7 1664.6,232.2 1668.1,231.2 				"/>
-				<polygon class="st2" points="1680.6,228.7 1684.1,229.7 1686.1,231.2 1688.2,231.7 1688.7,232.7 1687.2,233.7 1686.1,236.7
+				<polygon class="st1" points="1680.6,228.7 1684.1,229.7 1686.1,231.2 1688.2,231.7 1688.7,232.7 1687.2,233.7 1686.1,236.7
 					1684.1,237.2 1682.6,235.7 1681.1,231.7 1679.6,229.7 1679.6,229.2 1680.6,228.7 				"/>
-				<polygon class="st2" points="1688.2,234.2 1690.7,234.7 1691.7,236.2 1694.2,236.2 1695.2,236.7 1694.7,238.2 1690.2,239.2
+				<polygon class="st1" points="1688.2,234.2 1690.7,234.7 1691.7,236.2 1694.2,236.2 1695.2,236.7 1694.7,238.2 1690.2,239.2
 					1688.7,239.2 1688.2,238.7 1688.2,237.2 1687.7,236.7 1687.7,234.7 1688.2,234.2 				"/>
-				<polygon class="st2" points="1686.7,223.6 1693.7,224.1 1694.2,224.6 1694.2,226.1 1692.7,227.1 1693.2,227.6 1690.2,229.2
+				<polygon class="st1" points="1686.7,223.6 1693.7,224.1 1694.2,224.6 1694.2,226.1 1692.7,227.1 1693.2,227.6 1690.2,229.2
 					1688.7,229.2 1686.1,226.1 1686.1,224.1 1686.7,223.6 				"/>
-				<text transform="matrix(1 0 0 1 1669.5356 155.7303)"><tspan x="0" y="0" class="st19 st5 st18">Sipoo</tspan><tspan x="0" y="8.9" class="st19 st5 st18">Sibbo</tspan></text>
+				<text transform="matrix(1 0 0 1 1669.5356 155.7303)"><tspan x="0" y="0" class="st0 st4 st17">Sipoo</tspan><tspan x="0" y="8.9" class="st0 st4 st17">Sibbo</tspan></text>
 			</g>
-			<g id="Kerava_2_" class="st13">
-				<polygon id="Kerava_1_" class="st2" points="1649.5,142.3 1647,154.3 1648.5,160.4 1648,161.4 1644.5,161.4 1644.5,160.4
+			<g id="Kerava_2_" class="st12">
+				<polygon id="Kerava_1_" class="st1" points="1649.5,142.3 1647,154.3 1648.5,160.4 1648,161.4 1644.5,161.4 1644.5,160.4
 					1641.5,160.4 1637.4,157.9 1630.4,156.9 1630.9,155.9 1628.9,153.8 1627.9,154.9 1626.9,154.3 1627.9,149.8 1628.9,150.3
 					1628.9,149.3 1630.9,149.3 1629.4,132.8 1630.4,124.2 1649,116.7 1650,118.7 1651,119.7 1650.5,122.2 1650,123.7 1650.5,125.7
 					1650.5,126.7 1651,127.7 1652,130.3 1649.5,131.3 1649.5,136.8 1649.5,142.3 				"/>
-				<polygon id="Kerava" class="st22" points="1649.5,142.3 1647,154.3 1648.5,160.4 1648,161.4 1644.5,161.4 1644.5,160.4
+				<polygon id="Kerava" class="st20" points="1649.5,142.3 1647,154.3 1648.5,160.4 1648,161.4 1644.5,161.4 1644.5,160.4
 					1641.5,160.4 1637.4,157.9 1630.4,156.9 1630.9,155.9 1628.9,153.8 1627.9,154.9 1626.9,154.3 1627.9,149.8 1628.9,150.3
 					1628.9,149.3 1630.9,149.3 1629.4,132.8 1630.4,124.2 1649,116.7 1650,118.7 1651,119.7 1650.5,122.2 1650,123.7 1650.5,125.7
 					1650.5,126.7 1651,127.7 1652,130.3 1649.5,131.3 1649.5,136.8 1649.5,142.3 				"/>
-				<text transform="matrix(1 0 0 1 1630.2179 136.327)"><tspan x="0" y="0" class="st19 st5 st18">Kerava</tspan><tspan x="4.4" y="8.9" class="st19 st5 st18">Kervo</tspan></text>
+				<text transform="matrix(1 0 0 1 1630.2179 136.327)"><tspan x="0" y="0" class="st0 st4 st17">Kerava</tspan><tspan x="4.4" y="8.9" class="st0 st4 st17">Kervo</tspan></text>
 			</g>
-			<g class="st13">
-				<text transform="matrix(1 0 0 1 1574.6362 225.2987)"><tspan x="0" y="0" class="st2 st5 st18">Helsinki</tspan><tspan x="0" y="8.9" class="st2 st5 st18">Helsingfors</tspan></text>
+			<g class="st12">
+				<text transform="matrix(1 0 0 1 1574.6362 225.2987)"><tspan x="0" y="0" class="st1 st4 st17">Helsinki</tspan><tspan x="0" y="8.9" class="st1 st4 st17">Helsingfors</tspan></text>
 			</g>
 		</g>
 		<g id="Selite">
 			<g>
-				<rect x="1564.1" y="298.5" class="st23" width="154.1" height="22.9"/>
-				<text transform="matrix(1 0 0 1 1564.1285 305.2195)"><tspan x="0" y="0" class="st19 st5 st24">Lähiseutu 3 -lippu</tspan><tspan x="0" y="10.4" class="st19 st5 st24">Närregion 3</tspan></text>
+				<rect x="1564.1" y="298.5" class="st21" width="154.1" height="22.9"/>
+				<text transform="matrix(1 0 0 1 1564.1285 305.2195)"><tspan x="0" y="0" class="st0 st4 st22">Lähiseutu 3</tspan><tspan x="0" y="10.4" class="st0 st4 st22">Närregion 3</tspan></text>
 				<g>
-					<rect x="1540" y="295.3" class="st25" width="14.8" height="9"/>
-					<rect x="1540" y="304.4" class="st26" width="14.8" height="9"/>
-					<rect x="1540" y="313.4" class="st27" width="14.8" height="9"/>
+					<rect x="1540" y="295.3" class="st23" width="14.8" height="9"/>
+					<rect x="1540" y="304.4" class="st24" width="14.8" height="9"/>
+					<rect x="1540" y="313.4" class="st25" width="14.8" height="9"/>
 				</g>
 			</g>
 			<g>
-				<rect x="1540" y="328.8" class="st25" width="14.8" height="9"/>
-				<rect x="1540" y="337.8" class="st26" width="14.8" height="9"/>
-				<rect x="1564.1" y="329.2" class="st23" width="154.1" height="22.3"/>
-				<text transform="matrix(1 0 0 1 1564.1285 335.905)"><tspan x="0" y="0" class="st19 st5 st24">Lähiseutu 2 -lippu</tspan><tspan x="0" y="10.4" class="st19 st5 st24">Närregion 2</tspan></text>
+				<rect x="1540" y="328.8" class="st23" width="14.8" height="9"/>
+				<rect x="1540" y="337.8" class="st24" width="14.8" height="9"/>
+				<rect x="1564.1" y="329.2" class="st21" width="154.1" height="22.3"/>
+				<text transform="matrix(1 0 0 1 1564.1285 335.905)"><tspan x="0" y="0" class="st0 st4 st22">Lähiseutu 2</tspan><tspan x="0" y="10.4" class="st0 st4 st22">Närregion 2</tspan></text>
 			</g>
 			<g>
-				<rect x="1540" y="358.3" class="st26" width="14.8" height="9"/>
-				<rect x="1540" y="367.4" class="st27" width="14.8" height="9"/>
-				<rect x="1564.1" y="358.9" class="st23" width="154.1" height="21.4"/>
-				<text transform="matrix(1 0 0 1 1564.1285 365.5916)"><tspan x="0" y="0" class="st19 st5 st24">Seutulippu</tspan><tspan x="0" y="10.4" class="st19 st5 st24">Region</tspan></text>
+				<rect x="1540" y="358.3" class="st24" width="14.8" height="9"/>
+				<rect x="1540" y="367.4" class="st25" width="14.8" height="9"/>
+				<rect x="1564.1" y="358.9" class="st21" width="154.1" height="21.4"/>
+				<text transform="matrix(1 0 0 1 1564.1285 365.5916)"><tspan x="0" y="0" class="st0 st4 st22">Seutu</tspan><tspan x="0" y="10.4" class="st0 st4 st22">Region</tspan></text>
 			</g>
 		</g>
-		<rect x="1386.5" y="65.9" class="st23" width="365.3" height="32.6"/>
-		<text transform="matrix(1 0 0 1 1386.5077 86.3049)"><tspan x="0" y="0" class="st19 st3 st4">Lippuvyöhykkeet</tspan><tspan x="204.8" y="0" class="st19 st3 st4 st28"> </tspan><tspan x="214.1" y="0" class="st19 st5 st4">Resezoner</tspan></text>
-		<line class="st29" x1="1567.9" y1="101.5" x2="1723.4" y2="101.5"/>
+		<rect x="1386.5" y="65.9" class="st21" width="365.3" height="32.6"/>
+		<text transform="matrix(1 0 0 1 1386.5077 86.3049)"><tspan x="0" y="0" class="st0 st2 st3">Lippuvyöhykkeet</tspan><tspan x="204.8" y="0" class="st0 st2 st3 st26"> </tspan><tspan x="214.1" y="0" class="st0 st4 st3">Resezoner</tspan></text>
+		<line class="st27" x1="1567.9" y1="101.5" x2="1723.4" y2="101.5"/>
 		<g>
 			<defs>
 				<rect id="SVGID_3_" x="1555.9" y="101.5" width="195.9" height="90.5"/>
@@ -606,8 +606,8 @@
 			<clipPath id="SVGID_4_">
 				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 			</clipPath>
-			<g class="st30">
-				<polygon class="st2" points="1620.8,39.5 1619.3,40.6 1619,40.4 1618.9,40.5 1618.6,40.5 1617.2,41 1616.8,45.4 1616.7,45.8
+			<g class="st28">
+				<polygon class="st1" points="1620.8,39.5 1619.3,40.6 1619,40.4 1618.9,40.5 1618.6,40.5 1617.2,41 1616.8,45.4 1616.7,45.8
 					1616,46 1607.7,47.3 1607.7,47.3 1607.5,46.6 1604.2,45.9 1604.3,45.4 1604.1,45.3 1603.2,45.1 1603,45.2 1602.9,46
 					1602.9,46.1 1602.8,46.1 1602.5,46.2 1602.4,46.3 1601.9,46.3 1601.8,46.1 1601.6,46.1 1601.5,46.1 1601.2,44.7 1599.3,45.7
 					1598.8,46 1597.7,46.5 1595.9,47.4 1595.6,47.6 1593.2,48.9 1591.3,49.9 1586.8,52.3 1586.5,59.1 1586.9,59.2 1587.5,59.1
@@ -631,110 +631,110 @@
 					1641.3,64.9 1639.9,63.3 1639.8,63.1 1638.7,61.7 1638,60.9 1637.8,60.6 1631.5,52.8 1629.8,50.8 1629.5,50.3 1628.6,49.3
 					1622.6,41.9 				"/>
 				<g>
-					<polyline class="st31" points="1621.7,40.7 1620.8,39.5 1619.3,40.6 1619,40.4 1618.9,40.5 1618.6,40.5 1617.2,41 1617.1,42.4
+					<polyline class="st29" points="1621.7,40.7 1620.8,39.5 1619.3,40.6 1619,40.4 1618.9,40.5 1618.6,40.5 1617.2,41 1617.1,42.4
 											"/>
-					<polyline class="st31" points="1616.9,44.4 1616.8,45.4 1616.7,45.8 1616,46 1615.3,46.1 					"/>
-					<line class="st32" x1="1613.2" y1="46.4" x2="1610.1" y2="46.9"/>
-					<polyline class="st31" points="1609.1,47.1 1607.7,47.3 1607.7,47.3 1607.5,46.6 1606.1,46.3 					"/>
-					<polyline class="st31" points="1605.6,46.2 1604.2,45.9 1604.3,45.4 1604.1,45.3 1603.2,45.1 1603,45.2 1602.9,46 1602.9,46.1
+					<polyline class="st29" points="1616.9,44.4 1616.8,45.4 1616.7,45.8 1616,46 1615.3,46.1 					"/>
+					<line class="st30" x1="1613.2" y1="46.4" x2="1610.1" y2="46.9"/>
+					<polyline class="st29" points="1609.1,47.1 1607.7,47.3 1607.7,47.3 1607.5,46.6 1606.1,46.3 					"/>
+					<polyline class="st29" points="1605.6,46.2 1604.2,45.9 1604.3,45.4 1604.1,45.3 1603.2,45.1 1603,45.2 1602.9,46 1602.9,46.1
 						1602.8,46.1 1602.5,46.2 1602.4,46.3 1601.9,46.3 1601.8,46.1 1601.6,46.1 1601.5,46.1 1601.2,44.7 1599.9,45.4 					"/>
-					<polyline class="st33" points="1597.5,46.6 1595.9,47.4 1595.6,47.6 1593.2,48.9 1591.3,49.9 1589.2,51 					"/>
-					<polyline class="st31" points="1588,51.6 1586.8,52.3 1586.7,53.7 					"/>
-					<polyline class="st31" points="1586.6,57.6 1586.5,59.1 1586.9,59.2 1587.5,59.1 1588.1,59.7 1587.5,59.9 1588.5,60.9 					"/>
-					<polyline class="st31" points="1590.2,62.7 1590.7,63.3 1591.3,63.3 1591.3,63.7 1591.4,64.9 1590.8,65 1590.9,66.4 					"/>
-					<polyline class="st31" points="1590.9,66.8 1591,68.2 1592.1,69 					"/>
-					<polyline class="st31" points="1593.3,69.8 1593.3,69.8 1593.6,71.2 1591.9,72.3 1593,73.2 					"/>
-					<polyline class="st31" points="1593.1,73.4 1594.2,74.3 1594.3,74.2 1595.4,73.5 					"/>
-					<polyline class="st31" points="1595.4,73.5 1596.6,72.8 1595.9,71.7 1596.7,70.6 					"/>
-					<polyline class="st31" points="1596.8,70.5 1597,70.3 1598,69.9 1598.8,71.6 1600,70.9 					"/>
-					<polyline class="st31" points="1601.4,70.1 1602.6,69.4 1602.7,70.2 1603,70.8 1602.5,71.6 1602.5,72.1 					"/>
-					<polyline class="st34" points="1601.9,74.9 1601.8,75.1 1601.6,76.2 1601.2,77.2 1601,77.9 1600.7,78.7 1600.6,79.3
+					<polyline class="st31" points="1597.5,46.6 1595.9,47.4 1595.6,47.6 1593.2,48.9 1591.3,49.9 1589.2,51 					"/>
+					<polyline class="st29" points="1588,51.6 1586.8,52.3 1586.7,53.7 					"/>
+					<polyline class="st29" points="1586.6,57.6 1586.5,59.1 1586.9,59.2 1587.5,59.1 1588.1,59.7 1587.5,59.9 1588.5,60.9 					"/>
+					<polyline class="st29" points="1590.2,62.7 1590.7,63.3 1591.3,63.3 1591.3,63.7 1591.4,64.9 1590.8,65 1590.9,66.4 					"/>
+					<polyline class="st29" points="1590.9,66.8 1591,68.2 1592.1,69 					"/>
+					<polyline class="st29" points="1593.3,69.8 1593.3,69.8 1593.6,71.2 1591.9,72.3 1593,73.2 					"/>
+					<polyline class="st29" points="1593.1,73.4 1594.2,74.3 1594.3,74.2 1595.4,73.5 					"/>
+					<polyline class="st29" points="1595.4,73.5 1596.6,72.8 1595.9,71.7 1596.7,70.6 					"/>
+					<polyline class="st29" points="1596.8,70.5 1597,70.3 1598,69.9 1598.8,71.6 1600,70.9 					"/>
+					<polyline class="st29" points="1601.4,70.1 1602.6,69.4 1602.7,70.2 1603,70.8 1602.5,71.6 1602.5,72.1 					"/>
+					<polyline class="st32" points="1601.9,74.9 1601.8,75.1 1601.6,76.2 1601.2,77.2 1601,77.9 1600.7,78.7 1600.6,79.3
 						1600.3,79.9 1600,80.4 1600,81.4 1600,81.5 1599.8,82.6 1600,84.5 1600,85.1 1600.2,85.8 1600,86.6 1599.5,87.1 1598.5,89.2
 						1594.2,98.1 1593.9,98.8 1593.5,99.4 1592,102.7 1591.3,104.1 1590.2,109.6 1581.6,117.1 1580.3,122.7 1579.5,125.7
 						1574.9,132.1 1573.9,133.5 					"/>
-					<polyline class="st31" points="1573,134.6 1572,135.7 1572.3,137 					"/>
-					<polyline class="st35" points="1573,139.8 1573,140 1573.9,141.5 1574.5,145 1576.6,147.8 1581.8,155.9 1589.9,168.7
+					<polyline class="st29" points="1573,134.6 1572,135.7 1572.3,137 					"/>
+					<polyline class="st33" points="1573,139.8 1573,140 1573.9,141.5 1574.5,145 1576.6,147.8 1581.8,155.9 1589.9,168.7
 						1592.6,172 					"/>
-					<polyline class="st31" points="1593.5,173.1 1594.4,174.2 1595.8,174.1 					"/>
-					<polyline class="st36" points="1598.5,174 1607.7,173.7 1616.3,168.4 1616.8,168.1 					"/>
-					<polyline class="st31" points="1617.9,167.4 1619.1,166.6 1618.3,165.4 					"/>
-					<line class="st37" x1="1616.6" y1="162.9" x2="1614.1" y2="159.1"/>
-					<polyline class="st31" points="1613.3,157.9 1612.5,156.7 1613.3,155.5 					"/>
-					<polyline class="st31" points="1614,154.4 1614.8,153.3 1615.9,154.1 					"/>
-					<polyline class="st31" points="1617.2,155 1618.4,155.9 1619.4,155 					"/>
-					<polyline class="st31" points="1620.8,153.9 1621.9,153 1623,153.7 					"/>
-					<polyline class="st31" points="1624.1,154.5 1625.3,155.3 1626.4,154.4 					"/>
-					<polyline class="st31" points="1627.3,150.8 1627.5,149.4 1628.7,149.7 1628.7,148.5 1630.6,148.6 1630.5,147.2 					"/>
-					<polyline class="st38" points="1630.1,144.1 1629.8,141.2 1629.1,132.9 1629.9,126.9 					"/>
-					<polyline class="st31" points="1630.1,125.3 1630.3,123.9 1631.6,123.4 					"/>
-					<line class="st39" x1="1633.8" y1="122.4" x2="1646.3" y2="117.4"/>
-					<polyline class="st31" points="1647.5,116.9 1648.8,116.4 1649.3,115.1 					"/>
-					<line class="st40" x1="1649.2" y1="112.2" x2="1648.7" y2="107.7"/>
-					<polyline class="st31" points="1648.6,106.3 1648.4,104.9 1647,105.2 					"/>
-					<polyline class="st41" points="1645.2,105.6 1642.6,106.3 1642.5,106.3 					"/>
-					<polyline class="st31" points="1641.6,106.6 1640.3,107 1640.5,108.4 					"/>
-					<polyline class="st31" points="1641,111.3 1641.2,112.7 1639.8,113.1 					"/>
-					<polyline class="st42" points="1637.5,113.7 1634.4,114.4 1625,112.6 1624.3,112.4 					"/>
-					<polyline class="st31" points="1623.1,112 1621.8,111.5 1621.4,110.2 					"/>
-					<polyline class="st31" points="1621,109 1620.2,107.8 1621.2,106.7 					"/>
-					<polyline class="st31" points="1623.2,105.1 1624.3,104.3 1623.6,103.1 					"/>
-					<polyline class="st43" points="1622.1,100.7 1621.7,100.1 1619.8,97.2 					"/>
-					<polyline class="st31" points="1619.7,95.8 1619.7,95.3 1619.5,94.4 1620,93.5 1621.2,93.6 1622.2,93 1621.5,91.4 1623.8,90.1
+					<polyline class="st29" points="1593.5,173.1 1594.4,174.2 1595.8,174.1 					"/>
+					<polyline class="st34" points="1598.5,174 1607.7,173.7 1616.3,168.4 1616.8,168.1 					"/>
+					<polyline class="st29" points="1617.9,167.4 1619.1,166.6 1618.3,165.4 					"/>
+					<line class="st35" x1="1616.6" y1="162.9" x2="1614.1" y2="159.1"/>
+					<polyline class="st29" points="1613.3,157.9 1612.5,156.7 1613.3,155.5 					"/>
+					<polyline class="st29" points="1614,154.4 1614.8,153.3 1615.9,154.1 					"/>
+					<polyline class="st29" points="1617.2,155 1618.4,155.9 1619.4,155 					"/>
+					<polyline class="st29" points="1620.8,153.9 1621.9,153 1623,153.7 					"/>
+					<polyline class="st29" points="1624.1,154.5 1625.3,155.3 1626.4,154.4 					"/>
+					<polyline class="st29" points="1627.3,150.8 1627.5,149.4 1628.7,149.7 1628.7,148.5 1630.6,148.6 1630.5,147.2 					"/>
+					<polyline class="st36" points="1630.1,144.1 1629.8,141.2 1629.1,132.9 1629.9,126.9 					"/>
+					<polyline class="st29" points="1630.1,125.3 1630.3,123.9 1631.6,123.4 					"/>
+					<line class="st37" x1="1633.8" y1="122.4" x2="1646.3" y2="117.4"/>
+					<polyline class="st29" points="1647.5,116.9 1648.8,116.4 1649.3,115.1 					"/>
+					<line class="st38" x1="1649.2" y1="112.2" x2="1648.7" y2="107.7"/>
+					<polyline class="st29" points="1648.6,106.3 1648.4,104.9 1647,105.2 					"/>
+					<polyline class="st39" points="1645.2,105.6 1642.6,106.3 1642.5,106.3 					"/>
+					<polyline class="st29" points="1641.6,106.6 1640.3,107 1640.5,108.4 					"/>
+					<polyline class="st29" points="1641,111.3 1641.2,112.7 1639.8,113.1 					"/>
+					<polyline class="st40" points="1637.5,113.7 1634.4,114.4 1625,112.6 1624.3,112.4 					"/>
+					<polyline class="st29" points="1623.1,112 1621.8,111.5 1621.4,110.2 					"/>
+					<polyline class="st29" points="1621,109 1620.2,107.8 1621.2,106.7 					"/>
+					<polyline class="st29" points="1623.2,105.1 1624.3,104.3 1623.6,103.1 					"/>
+					<polyline class="st41" points="1622.1,100.7 1621.7,100.1 1619.8,97.2 					"/>
+					<polyline class="st29" points="1619.7,95.8 1619.7,95.3 1619.5,94.4 1620,93.5 1621.2,93.6 1622.2,93 1621.5,91.4 1623.8,90.1
 						1623.7,89.6 1624.1,89.4 1623.6,88 					"/>
-					<line class="st44" x1="1622.3" y1="84.7" x2="1620.5" y2="79.5"/>
-					<polyline class="st31" points="1619.9,77.8 1619.4,76.5 1620.8,76.7 					"/>
-					<polyline class="st31" points="1621.6,76.8 1623,77 1623.2,77.7 1624.6,77.9 					"/>
-					<polyline class="st31" points="1626.9,78.1 1628.3,78.2 1628.5,76.4 1629.9,76.6 					"/>
-					<polyline class="st31" points="1632.3,77.1 1633.7,77.4 1633.6,76.6 1634.3,76.5 1634.4,77.5 1636.4,77.6 1636.4,78.3
+					<line class="st42" x1="1622.3" y1="84.7" x2="1620.5" y2="79.5"/>
+					<polyline class="st29" points="1619.9,77.8 1619.4,76.5 1620.8,76.7 					"/>
+					<polyline class="st29" points="1621.6,76.8 1623,77 1623.2,77.7 1624.6,77.9 					"/>
+					<polyline class="st29" points="1626.9,78.1 1628.3,78.2 1628.5,76.4 1629.9,76.6 					"/>
+					<polyline class="st29" points="1632.3,77.1 1633.7,77.4 1633.6,76.6 1634.3,76.5 1634.4,77.5 1636.4,77.6 1636.4,78.3
 						1635.9,78.2 1635.4,78.5 1635.8,78.9 1635.4,79.5 1635.9,79.9 1635.5,80.3 1635.6,80.5 1635.8,80.8 1636,81.6 					"/>
-					<polyline class="st31" points="1636.2,82.8 1636.2,82.9 1636.8,84.1 1637,84.1 1637.4,84.1 1637.4,84.1 1637.8,84.1 1638,83.5
+					<polyline class="st29" points="1636.2,82.8 1636.2,82.9 1636.8,84.1 1637,84.1 1637.4,84.1 1637.4,84.1 1637.8,84.1 1638,83.5
 						1638.5,83 1639.1,82.9 1639.8,82.7 1638.6,81.7 1639.9,80.5 1640,81.1 1640.9,81.1 1640.8,79.9 1642.2,80.2 					"/>
-					<polyline class="st31" points="1645.2,80.7 1646.1,80.8 1646.6,80.9 1646.5,81.7 1647.3,81.7 1647.1,80.9 1647.4,80.4 					"/>
-					<polyline class="st45" points="1648.3,79.3 1648.4,79.2 1648.7,78.9 1648.7,78.1 1649,77.3 					"/>
-					<polyline class="st31" points="1649.3,76.6 1649.8,75.2 1649.7,75.2 1649,74.3 1648.8,74.1 					"/>
-					<polyline class="st46" points="1647,71.9 1646.6,71.4 1646.4,71.1 1645.3,69.8 1643.4,67.5 1643.2,67.2 1641.3,64.9
+					<polyline class="st29" points="1645.2,80.7 1646.1,80.8 1646.6,80.9 1646.5,81.7 1647.3,81.7 1647.1,80.9 1647.4,80.4 					"/>
+					<polyline class="st43" points="1648.3,79.3 1648.4,79.2 1648.7,78.9 1648.7,78.1 1649,77.3 					"/>
+					<polyline class="st29" points="1649.3,76.6 1649.8,75.2 1649.7,75.2 1649,74.3 1648.8,74.1 					"/>
+					<polyline class="st44" points="1647,71.9 1646.6,71.4 1646.4,71.1 1645.3,69.8 1643.4,67.5 1643.2,67.2 1641.3,64.9
 						1639.9,63.3 1639.8,63.1 1638.7,61.7 1638,60.9 1637.8,60.6 1631.5,52.8 1629.8,50.8 1629.5,50.3 1628.6,49.3 1622.6,41.9
 						1622.6,41.8 					"/>
 				</g>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1584.8979 130.1604)"><tspan x="0" y="0" class="st17 st5 st18">Tuusula</tspan><tspan x="3.5" y="8.9" class="st17 st5 st18">Tusby</tspan><tspan x="4.8" y="17.7" class="st17 st5 st18">2018-</tspan></text>
+		<text transform="matrix(1 0 0 1 1584.8979 130.1604)"><tspan x="0" y="0" class="st16 st4 st17">Tuusula</tspan><tspan x="3.5" y="8.9" class="st16 st4 st17">Tusby</tspan><tspan x="4.8" y="17.7" class="st16 st4 st17">2018-</tspan></text>
 	</g>
-	<g id="Pysäkki-info_bussi_et_ratikka" class="st0">
-		<g class="st47">
-			<path class="st12" d="M1013,368.9c0,15.4-12.6,27.9-27.9,27.9H544.8c-15.4,0-27.9-12.6-27.9-27.9V67.6
+	<g id="Pysäkki-info_bussi_et_ratikka" class="st45">
+		<g class="st46">
+			<path class="st11" d="M1013,368.9c0,15.4-12.6,27.9-27.9,27.9H544.8c-15.4,0-27.9-12.6-27.9-27.9V67.6
 				c0-15.4,12.6-27.9,27.9-27.9H985c15.4,0,27.9,12.6,27.9,27.9V368.9z"/>
 		</g>
-		<rect x="546.3" y="111.3" class="st48" width="289.5" height="168.5"/>
-		<text transform="matrix(0.8796 0 0 1 546.251 124.0249)" class="st47"><tspan x="0" y="0" class="st19 st3 st49">Tämän pysäkin liikennevälineiden reaali- </tspan><tspan x="0" y="17.9" class="st19 st3 st49">aikaiset kulkutiedot saat Reittioppaasta </tspan><tspan x="0" y="35.9" class="st19 st3 st49">(reittiopas.fi) vieressä olevan QR-koodin </tspan><tspan x="0" y="53.8" class="st19 st3 st49">avulla tai menemällä verkko-osoitteeseen.</tspan><tspan x="0" y="77.7" class="st19 st5 st49">Realtidsinformation om de linjer som </tspan><tspan x="0" y="95.7" class="st19 st5 st49">använder denna hållplats hittar du i </tspan><tspan x="0" y="113.6" class="st19 st5 st49">Reseplaneraren (reittiopas.fi/sv) med </tspan><tspan x="0" y="131.6" class="st19 st5 st49">QR-koden som finns här bredvid eller </tspan><tspan x="0" y="149.5" class="st19 st5 st49">genom att skriva webbadressen.</tspan></text>
-		<line class="st50" x1="547.1" y1="315.4" x2="822" y2="315.4"/>
-		<line class="st50" x1="547.3" y1="363.3" x2="822.3" y2="363.3"/>
-		<rect x="546.3" y="287.7" class="st48" width="89.9" height="12.7"/>
-		<text transform="matrix(1.0244 0 0 1 546.251 297.9903)" class="st47"><tspan x="0" y="0" class="st19 st3 st51">Bussi</tspan><tspan x="37.1" y="0" class="st19 st5 st51">/Buss</tspan></text>
-		<rect x="884.4" y="110.4" class="st48" width="80.6" height="12.7"/>
-		<text transform="matrix(1.0244 0 0 1 884.4026 120.6432)" class="st47"><tspan x="0" y="0" class="st19 st3 st51">Bussi</tspan><tspan x="37.1" y="0" class="st19 st5 st51">/Buss</tspan></text>
-		<rect x="546.3" y="309.7" class="st48" width="281.1" height="19.8"/>
-		<text transform="matrix(1 0 0 1 546.2511 320.0043)" class="st47 st3 st51">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
-		<rect x="874.1" y="129.1" class="st52" width="107.7" height="107.7"/>
-		<rect x="546.3" y="335.2" class="st48" width="188.3" height="14.3"/>
-		<text transform="matrix(1.0244 0 0 1 546.2513 345.4523)" class="st47"><tspan x="0" y="0" class="st19 st3 st51">Ratikka</tspan><tspan x="52.9" y="0" class="st19 st5 st51">/Spårvagn</tspan></text>
-		<rect x="860" y="248.1" class="st48" width="131.5" height="13.2"/>
-		<text transform="matrix(1.0244 0 0 1 859.9777 258.3972)" class="st47"><tspan x="0" y="0" class="st19 st3 st51">Ratikka</tspan><tspan x="52.9" y="0" class="st19 st5 st51">/Spårvagn</tspan></text>
-		<rect x="546.3" y="357.4" class="st48" width="248.5" height="17.7"/>
-		<text transform="matrix(1 0 0 1 546.2511 367.6665)" class="st47 st3 st51">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
-		<rect x="874.1" y="268.2" class="st52" width="107.7" height="107.7"/>
-		<rect x="546.3" y="65.9" class="st48" width="455.8" height="32.4"/>
-		<text transform="matrix(1 0 0 1 546.2528 86.3047)" class="st1 st3 st4">Reaaliaikainen info </text>
-		<g id="palaute" class="st47">
+		<rect x="546.3" y="111.3" class="st47" width="289.5" height="168.5"/>
+		<text transform="matrix(0.8796 0 0 1 546.251 124.0249)" class="st46"><tspan x="0" y="0" class="st0 st2 st48">Tämän pysäkin liikennevälineiden reaali- </tspan><tspan x="0" y="17.9" class="st0 st2 st48">aikaiset kulkutiedot saat Reittioppaasta </tspan><tspan x="0" y="35.9" class="st0 st2 st48">(reittiopas.fi) vieressä olevan QR-koodin </tspan><tspan x="0" y="53.8" class="st0 st2 st48">avulla tai menemällä verkko-osoitteeseen.</tspan><tspan x="0" y="77.7" class="st0 st4 st48">Realtidsinformation om de linjer som </tspan><tspan x="0" y="95.7" class="st0 st4 st48">använder denna hållplats hittar du i </tspan><tspan x="0" y="113.6" class="st0 st4 st48">Reseplaneraren (reittiopas.fi/sv) med </tspan><tspan x="0" y="131.6" class="st0 st4 st48">QR-koden som finns här bredvid eller </tspan><tspan x="0" y="149.5" class="st0 st4 st48">genom att skriva webbadressen.</tspan></text>
+		<line class="st49" x1="547.1" y1="315.4" x2="822" y2="315.4"/>
+		<line class="st49" x1="547.3" y1="363.3" x2="822.3" y2="363.3"/>
+		<rect x="546.3" y="287.7" class="st47" width="89.9" height="12.7"/>
+		<text transform="matrix(1.0244 0 0 1 546.251 297.9903)" class="st46"><tspan x="0" y="0" class="st0 st2 st50">Bussi</tspan><tspan x="37.1" y="0" class="st0 st4 st50">/Buss</tspan></text>
+		<rect x="884.4" y="110.4" class="st47" width="80.6" height="12.7"/>
+		<text transform="matrix(1.0244 0 0 1 884.4026 120.6432)" class="st46"><tspan x="0" y="0" class="st0 st2 st50">Bussi</tspan><tspan x="37.1" y="0" class="st0 st4 st50">/Buss</tspan></text>
+		<rect x="546.3" y="309.7" class="st47" width="281.1" height="19.8"/>
+		<text transform="matrix(1 0 0 1 546.2511 320.0043)" class="st46 st2 st50">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
+		<rect x="874.1" y="129.1" class="st51" width="107.7" height="107.7"/>
+		<rect x="546.3" y="335.2" class="st47" width="188.3" height="14.3"/>
+		<text transform="matrix(1.0244 0 0 1 546.2513 345.4523)" class="st46"><tspan x="0" y="0" class="st0 st2 st50">Ratikka</tspan><tspan x="52.9" y="0" class="st0 st4 st50">/Spårvagn</tspan></text>
+		<rect x="860" y="248.1" class="st47" width="131.5" height="13.2"/>
+		<text transform="matrix(1.0244 0 0 1 859.9777 258.3972)" class="st46"><tspan x="0" y="0" class="st0 st2 st50">Ratikka</tspan><tspan x="52.9" y="0" class="st0 st4 st50">/Spårvagn</tspan></text>
+		<rect x="546.3" y="357.4" class="st47" width="248.5" height="17.7"/>
+		<text transform="matrix(1 0 0 1 546.2511 367.6665)" class="st46 st2 st50">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
+		<rect x="874.1" y="268.2" class="st51" width="107.7" height="107.7"/>
+		<rect x="546.3" y="65.9" class="st47" width="455.8" height="32.4"/>
+		<text transform="matrix(1 0 0 1 546.2528 86.3047)" class="st52 st2 st3">Reaaliaikainen info </text>
+		<g id="palaute" class="st46">
 			<g>
-				<path class="st12" d="M1342,374.8c0,12.1-9.9,22-22,22H1055c-12.1,0-22-9.9-22-22V61.7c0-12.1,9.9-22,22-22h264.9
+				<path class="st11" d="M1342,374.8c0,12.1-9.9,22-22,22H1055c-12.1,0-22-9.9-22-22V61.7c0-12.1,9.9-22,22-22h264.9
 					c12.1,0,22,9.9,22,22V374.8z"/>
 			</g>
-			<rect x="1062" y="65.9" class="st23" width="261.5" height="34.6"/>
-			<text transform="matrix(1 0 0 1 1061.9557 86.3047)"><tspan x="0" y="0" class="st19 st3 st4">Palaute </tspan><tspan x="95.6" y="0" class="st19 st5 st4">Respons</tspan></text>
-			<rect x="1062" y="110" class="st23" width="246.1" height="170.5"/>
-			<text transform="matrix(1 0 0 1 1061.9561 122.6921)"><tspan x="0" y="0" class="st19 st3 st49">Onko pysäkki epäkunnossa? </tspan><tspan x="0" y="17.9" class="st19 st3 st49">Onko pysäkillä muita puutteita? </tspan><tspan x="0" y="35.9" class="st19 st3 st49">Tee vikailmoitus HSL:n </tspan><tspan x="0" y="53.8" class="st19 st3 st49">verkkosivuilla!</tspan><tspan x="0" y="77.7" class="st19 st5 st49">Sönderslagen busskur? Något </tspan><tspan x="0" y="95.7" class="st19 st5 st49">annat behöver åtgärdas på </tspan><tspan x="0" y="113.6" class="st19 st5 st49">hållplatsen? Ge respons på </tspan><tspan x="0" y="131.6" class="st19 st5 st49">HRT:s webbplats!</tspan></text>
-			<text transform="matrix(1 0 0 1 1147.3242 321.8599)"><tspan x="0" y="0" class="st19 st3 st6">hsl.fi/palaute</tspan><tspan x="0" y="21.6" class="st19 st5 st6">hsl.fi/sv/respons</tspan></text>
+			<rect x="1062" y="65.9" class="st21" width="261.5" height="34.6"/>
+			<text transform="matrix(1 0 0 1 1061.9557 86.3047)"><tspan x="0" y="0" class="st0 st2 st3">Palaute </tspan><tspan x="95.6" y="0" class="st0 st4 st3">Respons</tspan></text>
+			<rect x="1062" y="110" class="st21" width="246.1" height="170.5"/>
+			<text transform="matrix(1 0 0 1 1061.9561 122.6921)"><tspan x="0" y="0" class="st0 st2 st48">Onko pysäkki epäkunnossa? </tspan><tspan x="0" y="17.9" class="st0 st2 st48">Onko pysäkillä muita puutteita? </tspan><tspan x="0" y="35.9" class="st0 st2 st48">Tee vikailmoitus HSL:n </tspan><tspan x="0" y="53.8" class="st0 st2 st48">verkkosivuilla!</tspan><tspan x="0" y="77.7" class="st0 st4 st48">Sönderslagen busskur? Något </tspan><tspan x="0" y="95.7" class="st0 st4 st48">annat behöver åtgärdas på </tspan><tspan x="0" y="113.6" class="st0 st4 st48">hållplatsen? Ge respons på </tspan><tspan x="0" y="131.6" class="st0 st4 st48">HRT:s webbplats!</tspan></text>
+			<text transform="matrix(1 0 0 1 1147.3242 321.8599)"><tspan x="0" y="0" class="st0 st2 st5">hsl.fi/palaute</tspan><tspan x="0" y="21.6" class="st0 st4 st5">hsl.fi/sv/respons</tspan></text>
 			<g>
 				<g>
 					<defs>
@@ -761,27 +761,27 @@
 	</g>
 	<g id="Pysäkki-info_bussi">
 		<g>
-			<path class="st12" d="M1013,368.9c0,15.4-12.6,27.9-27.9,27.9H544.8c-15.4,0-27.9-12.6-27.9-27.9V67.6
+			<path class="st11" d="M1013,368.9c0,15.4-12.6,27.9-27.9,27.9H544.8c-15.4,0-27.9-12.6-27.9-27.9V67.6
 				c0-15.4,12.6-27.9,27.9-27.9H985c15.4,0,27.9,12.6,27.9,27.9V368.9z"/>
 		</g>
-		<rect x="546.3" y="124.9" class="st23" width="289.5" height="170.1"/>
-		<text transform="matrix(0.8796 0 0 1 546.251 137.6364)"><tspan x="0" y="0" class="st19 st3 st49">Tämän pysäkin liikennevälineiden reaali- </tspan><tspan x="0" y="17.9" class="st19 st3 st49">aikaiset kulkutiedot saat Reittioppaasta </tspan><tspan x="0" y="35.9" class="st19 st3 st49">(reittiopas.fi) vieressä olevan QR-koodin </tspan><tspan x="0" y="53.8" class="st19 st3 st49">avulla tai menemällä verkko-osoitteeseen.</tspan><tspan x="0" y="77.7" class="st19 st5 st49">Realtidsinformation om de linjer som </tspan><tspan x="0" y="95.7" class="st19 st5 st49">använder denna hållplats hittar du i </tspan><tspan x="0" y="113.6" class="st19 st5 st49">Reseplaneraren (reittiopas.fi/sv) med </tspan><tspan x="0" y="131.6" class="st19 st5 st49">QR-koden som finns här bredvid eller </tspan><tspan x="0" y="149.5" class="st19 st5 st49">genom att skriva webbadressen.</tspan></text>
+		<rect x="546.3" y="124.9" class="st21" width="289.5" height="170.1"/>
+		<text transform="matrix(0.8796 0 0 1 546.251 137.6364)"><tspan x="0" y="0" class="st0 st2 st48">Tämän pysäkin liikennevälineiden reaali- </tspan><tspan x="0" y="17.9" class="st0 st2 st48">aikaiset kulkutiedot saat Reittioppaasta </tspan><tspan x="0" y="35.9" class="st0 st2 st48">(reittiopas.fi) vieressä olevan QR-koodin </tspan><tspan x="0" y="53.8" class="st0 st2 st48">avulla tai menemällä verkko-osoitteeseen.</tspan><tspan x="0" y="77.7" class="st0 st4 st48">Realtidsinformation om de linjer som </tspan><tspan x="0" y="95.7" class="st0 st4 st48">använder denna hållplats hittar du i </tspan><tspan x="0" y="113.6" class="st0 st4 st48">Reseplaneraren (reittiopas.fi/sv) med </tspan><tspan x="0" y="131.6" class="st0 st4 st48">QR-koden som finns här bredvid eller </tspan><tspan x="0" y="149.5" class="st0 st4 st48">genom att skriva webbadressen.</tspan></text>
 		<line class="st55" x1="548.1" y1="343" x2="972.7" y2="343"/>
-		<rect x="548.2" y="337.4" class="st23" width="256.1" height="19.8"/>
-		<text transform="matrix(1 0 0 1 548.2358 347.6483)" class="st0 st3 st51">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
-		<rect x="872.4" y="124.9" class="st2" width="107.7" height="107.7"/>
-		<rect x="546.3" y="65.9" class="st23" width="455.8" height="32.4"/>
-		<text transform="matrix(1 0 0 1 546.2528 86.3047)" class="st19 st3 st4">Reaaliaikainen info </text>
+		<rect x="548.2" y="337.4" class="st21" width="256.1" height="19.8"/>
+		<text transform="matrix(1 0 0 1 548.2358 347.6483)" class="st2 st50">hsl.fi/pysäkki/&lt;lyhyttunnus&gt;</text>
+		<rect x="872.4" y="124.9" class="st1" width="107.7" height="107.7"/>
+		<rect x="546.3" y="65.9" class="st21" width="455.8" height="32.4"/>
+		<text transform="matrix(1 0 0 1 546.2528 86.3047)" class="st0 st2 st3">Reaaliaikainen info </text>
 		<g id="Pysäkin_ylläpito">
 			<g>
-				<path class="st12" d="M1342,374.8c0,12.1-9.9,22-22,22H1055c-12.1,0-22-9.9-22-22V61.7c0-12.1,9.9-22,22-22h264.9
+				<path class="st11" d="M1342,374.8c0,12.1-9.9,22-22,22H1055c-12.1,0-22-9.9-22-22V61.7c0-12.1,9.9-22,22-22h264.9
 					c12.1,0,22,9.9,22,22V374.8z"/>
 			</g>
-			<rect x="1062" y="65.9" class="st23" width="261.5" height="34.6"/>
-			<text transform="matrix(1 0 0 1 1061.9557 86.3047)"><tspan x="0" y="0" class="st19 st3 st4">Palaute </tspan><tspan x="95.6" y="0" class="st19 st5 st4">Respons</tspan></text>
-			<rect x="1062" y="124.6" class="st23" width="246.1" height="170.5"/>
-			<text transform="matrix(1 0 0 1 1061.9561 137.3588)"><tspan x="0" y="0" class="st19 st3 st49">Onko pysäkki epäkunnossa? </tspan><tspan x="0" y="17.9" class="st19 st3 st49">Onko pysäkillä muita puutteita? </tspan><tspan x="0" y="35.9" class="st19 st3 st49">Tee vikailmoitus HSL:n </tspan><tspan x="0" y="53.8" class="st19 st3 st49">verkkosivuilla!</tspan><tspan x="0" y="77.7" class="st19 st5 st49">Sönderslagen busskur? Något </tspan><tspan x="0" y="95.7" class="st19 st5 st49">annat behöver åtgärdas på </tspan><tspan x="0" y="113.6" class="st19 st5 st49">hållplatsen? Ge respons på </tspan><tspan x="0" y="131.6" class="st19 st5 st49">HRT:s webbplats!</tspan></text>
-			<text transform="matrix(1 0 0 1 1147.3242 321.8599)"><tspan x="0" y="0" class="st19 st3 st6">hsl.fi/palaute</tspan><tspan x="0" y="21.6" class="st19 st5 st6">hsl.fi/sv/respons</tspan></text>
+			<rect x="1062" y="65.9" class="st21" width="261.5" height="34.6"/>
+			<text transform="matrix(1 0 0 1 1061.9557 86.3047)"><tspan x="0" y="0" class="st0 st2 st3">Palaute </tspan><tspan x="95.6" y="0" class="st0 st4 st3">Respons</tspan></text>
+			<rect x="1062" y="124.6" class="st21" width="246.1" height="170.5"/>
+			<text transform="matrix(1 0 0 1 1061.9561 137.3588)"><tspan x="0" y="0" class="st0 st2 st48">Onko pysäkki epäkunnossa? </tspan><tspan x="0" y="17.9" class="st0 st2 st48">Onko pysäkillä muita puutteita? </tspan><tspan x="0" y="35.9" class="st0 st2 st48">Tee vikailmoitus HSL:n </tspan><tspan x="0" y="53.8" class="st0 st2 st48">verkkosivuilla!</tspan><tspan x="0" y="77.7" class="st0 st4 st48">Sönderslagen busskur? Något </tspan><tspan x="0" y="95.7" class="st0 st4 st48">annat behöver åtgärdas på </tspan><tspan x="0" y="113.6" class="st0 st4 st48">hållplatsen? Ge respons på </tspan><tspan x="0" y="131.6" class="st0 st4 st48">HRT:s webbplats!</tspan></text>
+			<text transform="matrix(1 0 0 1 1147.3242 321.8599)"><tspan x="0" y="0" class="st0 st2 st5">hsl.fi/palaute</tspan><tspan x="0" y="21.6" class="st0 st4 st5">hsl.fi/sv/respons</tspan></text>
 			<g>
 				<g>
 					<defs>
