@@ -46,18 +46,17 @@
 }
 
 .interval {
-    height: 60px;
     margin-right: -999px;
     white-space: nowrap;
 }
 
 .intervalIcon {
-    height: 32px;
+    height: 28px;
 }
 
 .intervalTitle {
     font-family: fontFamily;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 500;
     margin: 0 6px;
 }
@@ -69,6 +68,6 @@
 
 .intervalValue {
     font-family: fontFamilyNarrow;
-    font-size: 40px;
+    font-size: 36px;
     font-weight: 300;
 }

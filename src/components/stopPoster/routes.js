@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import sortBy from "lodash/sortBy";
-import { Row, Column, Image } from "components/util";
+import DottedLine from "components/dottedLine";
+import { Row, Column, Image, Spacer } from "components/util";
 
 import renderQueue from "util/renderQueue";
 import { isTrunkRoute, getColor, getIcon, colorsByMode } from "util/domain";
@@ -24,12 +25,18 @@ const DepartureIntervals = () => (
             </Column>
             <div className={styles.intervalValue}>3-5 min</div>
 
+            <Spacer width={10}/>
+            <DottedLine color="#000" width={3} spacing={5} count={6}/>
+            <Spacer width={7}/>
+
             <Column>
                 <div className={styles.intervalTitle}>la-su päivisin</div>
                 <div className={styles.intervalSubtitle}>lö-sö dagtid</div>
             </Column>
             <div className={styles.intervalValue}>8-10 min</div>
         </Row>
+        <Spacer height={10}/>
+        <DottedLine color="#ff6319" width={3} spacing={5} count={100} isHorizontal/>
     </div>
 );
 
@@ -130,6 +137,7 @@ class Routes extends Component {
                                         {isTrunkRoute(route.routeId) &&
                                             <div className={styles.group}>
                                                 <DepartureIntervals/>
+
                                             </div>
                                         }
                                     </div>
