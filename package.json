@@ -55,6 +55,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "csv": "^1.1.1",
+    "global-mercator": "^2.8.4",
     "hsl-map-style": "HSLdevcom/hsl-map-style#d640b1f7656df1e594dbb0c897de4d877ed588fb",
     "iconv-lite": "^0.4.15",
     "json-loader": "^0.5.4",
