@@ -3,7 +3,7 @@ import { ApolloClient, createNetworkInterface, ApolloProvider } from "react-apol
 
 import StopPoster from "components/stopPoster/stopPosterContainer";
 import Timetable from "components/timetable/timetableContainer";
-import RouteMap from "components/routeMap/routeMap";
+import RouteMap from "components/routeMap/routeMapContainer";
 
 import renderQueue from "util/renderQueue";
 
