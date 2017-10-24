@@ -6,6 +6,7 @@ import { JustifiedRow, InlineSVG } from "components/util";
 import renderQueue from "util/renderQueue";
 
 import CropMarks from "components/cropMarks";
+import Scalebar from "components/map/scalebar";
 
 import legendIcon from "./legend.svg";
 import footerLeftIcon from "./footerLeft.svg";
@@ -99,6 +100,11 @@ class RouteMap extends Component {
             margin: -15,
         };
 
+        // Scale factor for web mercator at current latitude i.e. map units per meter
+        const scaleFactor = 1 / Math.cos(this.props.lat * (Math.PI / 180));
+        // Actual pixels per meter value for scalebar
+        const pixelsPerMeter = scale * (scaleFactor / this.props.tileset.metersPerPixel);
+
         return (
             <CropMarks>
                 <div className={styles.root} style={style}>
@@ -113,6 +119,9 @@ class RouteMap extends Component {
                         {tiles}
                         <div className={styles.legend}>
                             <InlineSVG src={legendIcon}/>
+                        </div>
+                        <div className={styles.scalebar}>
+                            <Scalebar targetWidth={300} pixelsPerMeter={pixelsPerMeter}/>
                         </div>
                     </div>
                     <JustifiedRow>
