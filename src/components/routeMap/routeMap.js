@@ -72,7 +72,7 @@ class RouteMap extends Component {
         const offsetX = Math.round((left - tileset.left) / tileset.metersPerPixel);
         const offsetY = Math.round((tileset.top - top) / tileset.metersPerPixel);
 
-        const scale = 72 / tileset.dpi;
+        const scale = (72 / tileset.dpi) * this.props.scale;
         const tileCountX = Math.ceil((width / tileset.tileSize) / scale);
         const tileCountY = Math.ceil((height / tileset.tileSize) / scale);
         const leftmostTile = Math.max(Math.floor(offsetX / tileset.tileSize), 1);
@@ -125,6 +125,10 @@ class RouteMap extends Component {
     }
 }
 
+RouteMap.defaultProps = {
+    scale: 1,
+};
+
 RouteMap.propTypes = {
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
@@ -132,6 +136,7 @@ RouteMap.propTypes = {
     height: PropTypes.number.isRequired,
     lon: PropTypes.number.isRequired,
     lat: PropTypes.number.isRequired,
+    scale: PropTypes.number,
     tileset: PropTypes.shape({
         top: PropTypes.number.isRequired,
         left: PropTypes.number.isRequired,
