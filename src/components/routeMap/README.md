@@ -14,7 +14,7 @@ Create a JSON file containing the following properties:
 {
     "top": 8506226.10604208,
     "left": 2712353.539647764,
-    "metersPerPixel": 3.36263561649125,
+    "mapUnitsPerPixel": 3.36263561649125,
     "url": "http://localhost:8080/35000/{x}_{y}.png",
     "tileSize": 1024,
     "rows": 28,

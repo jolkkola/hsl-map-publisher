@@ -70,8 +70,8 @@ class RouteMap extends Component {
         const height = Math.round((this.props.height / 25.4) * 72);
 
         const [left, top] = lngLatToMeters([this.props.lon, this.props.lat]);
-        const offsetX = Math.round((left - tileset.left) / tileset.metersPerPixel);
-        const offsetY = Math.round((tileset.top - top) / tileset.metersPerPixel);
+        const offsetX = Math.round((left - tileset.left) / tileset.mapUnitsPerPixel);
+        const offsetY = Math.round((tileset.top - top) / tileset.mapUnitsPerPixel);
 
         const scale = (72 / tileset.dpi) * this.props.scale;
         const tileCountX = Math.ceil((width / tileset.tileSize) / scale);
@@ -103,7 +103,7 @@ class RouteMap extends Component {
         // Scale factor for web mercator at current latitude i.e. map units per meter
         const scaleFactor = 1 / Math.cos(this.props.lat * (Math.PI / 180));
         // Actual pixels per meter value for scalebar
-        const pixelsPerMeter = scale * (scaleFactor / this.props.tileset.metersPerPixel);
+        const pixelsPerMeter = scale * (scaleFactor / this.props.tileset.mapUnitsPerPixel);
 
         return (
             <CropMarks>
@@ -149,7 +149,7 @@ RouteMap.propTypes = {
     tileset: PropTypes.shape({
         top: PropTypes.number.isRequired,
         left: PropTypes.number.isRequired,
-        metersPerPixel: PropTypes.number.isRequired,
+        mapUnitsPerPixel: PropTypes.number.isRequired,
         url: PropTypes.string.isRequired,
         tileSize: PropTypes.number.isRequired,
         rows: PropTypes.number.isRequired,
