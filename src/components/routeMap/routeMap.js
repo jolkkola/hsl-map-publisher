@@ -83,7 +83,7 @@ class RouteMap extends Component {
         this.promises = [];
         for (let y = topmostTile; y <= topmostTile + tileCountY; y++) {
             for (let x = leftmostTile; x <= leftmostTile + tileCountX; x++) {
-                if (x > tileset.rows || y > tileset.columns) break;
+                if (x > tileset.columns || y > tileset.rows) break;
                 const props = { ...tileset, x, y, offsetX, offsetY, scale, key: `${x}${y}` };
                 const promise = new Promise((resolve, reject) => {
                     tiles.push(<Tile {...props} onLoad={resolve} onError={reject}/>);
