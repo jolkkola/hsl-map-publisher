@@ -76,14 +76,18 @@ class RouteMap extends Component {
         const scale = (72 / tileset.dpi) * this.props.scale;
         const tileCountX = Math.ceil((width / tileset.tileSize) / scale);
         const tileCountY = Math.ceil((height / tileset.tileSize) / scale);
-        const leftmostTile = Math.max(Math.floor(offsetX / tileset.tileSize), 1);
-        const topmostTile = Math.max(Math.floor(offsetY / tileset.tileSize), 1);
+        const leftmostTile = Math.floor(offsetX / tileset.tileSize);
+        const topmostTile = Math.floor(offsetY / tileset.tileSize);
 
         const tiles = [];
         this.promises = [];
         for (let y = topmostTile; y <= topmostTile + tileCountY; y++) {
             for (let x = leftmostTile; x <= leftmostTile + tileCountX; x++) {
-                if (x > tileset.columns || y > tileset.rows) break;
+                if (x < 1 || x > tileset.columns || y < 1 || y > tileset.rows) {
+                    // eslint-disable-next-line no-console
+                    console.log(`Tile ${x},${y} out of bounds ${tileset.columns},${tileset.rows}`);
+                    break;
+                }
                 const props = { ...tileset, x, y, offsetX, offsetY, scale, key: `${x}${y}` };
                 const promise = new Promise((resolve, reject) => {
                     tiles.push(<Tile {...props} onLoad={resolve} onError={reject}/>);
