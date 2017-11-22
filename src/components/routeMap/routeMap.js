@@ -104,6 +104,11 @@ class RouteMap extends Component {
             margin: -15,
         };
 
+        const legendStyle = {
+            top: this.props.legendTop ? (this.props.legendTop / 25.4) * 72 : null,
+            left: this.props.legendLeft ? (this.props.legendLeft / 25.4) * 72 : null,
+        };
+
         // Scale factor for web mercator at current latitude i.e. map units per meter
         const scaleFactor = 1 / Math.cos(this.props.lat * (Math.PI / 180));
         // Actual pixels per meter value for scalebar
@@ -121,7 +126,7 @@ class RouteMap extends Component {
                     </JustifiedRow>
                     <div className={styles.content}>
                         {tiles}
-                        <div className={styles.legend}>
+                        <div style={legendStyle} className={styles.legend}>
                             <InlineSVG src={legendIcon}/>
                         </div>
                         <div className={styles.scalebar}>
@@ -140,13 +145,17 @@ class RouteMap extends Component {
 
 RouteMap.defaultProps = {
     scale: 1,
+    legendTop: null,
+    legendLeft: null,
 };
 
 RouteMap.propTypes = {
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
-    width: PropTypes.number.isRequired,
-    height: PropTypes.number.isRequired,
+    width: PropTypes.number.isRequired, // mm
+    height: PropTypes.number.isRequired, // mm
+    legendTop: PropTypes.number, // mm
+    legendLeft: PropTypes.number, // mm
     lon: PropTypes.number.isRequired,
     lat: PropTypes.number.isRequired,
     scale: PropTypes.number,
