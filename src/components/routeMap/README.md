@@ -19,7 +19,8 @@ Create a JSON file containing the following properties:
     "tileSize": 1024,
     "rows": 28,
     "columns": 28,
-    "dpi": 300
+    "dpi": 300,
+    "note:": "1.1.-1.6.2018"
 }
 ```
 

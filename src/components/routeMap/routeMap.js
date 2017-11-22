@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { lngLatToMeters } from "global-mercator";
-import moment from "moment";
 import { JustifiedRow, InlineSVG } from "components/util";
 import renderQueue from "util/renderQueue";
 
@@ -119,7 +118,7 @@ class RouteMap extends Component {
                 <div className={styles.root} style={style}>
                     <JustifiedRow>
                         <div className={styles.title}>{this.props.title}</div>
-                        <div className={styles.title}>{moment().format("D.M.YYYY")}</div>
+                        <div className={styles.title}>{tileset.note}</div>
                     </JustifiedRow>
                     <JustifiedRow>
                         <div className={styles.subtitle}>{this.props.subtitle}</div>
