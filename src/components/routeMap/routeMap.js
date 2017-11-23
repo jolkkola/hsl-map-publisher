@@ -14,12 +14,13 @@ import footerRightIcon from "./footerRight.svg";
 import styles from "./routeMap.css";
 
 const Tile = (props) => {
+    const size = Math.floor(props.tileSize * props.scale);
     const style = {
         position: "absolute",
-        left: (((props.x - 1) * props.tileSize) - props.offsetX) * props.scale,
-        top: (((props.y - 1) * props.tileSize) - props.offsetY) * props.scale,
-        width: props.tileSize * props.scale,
-        height: props.tileSize * props.scale,
+        top: ((props.y - 1) * size) - Math.floor(props.offsetY * props.scale),
+        left: ((props.x - 1) * size) - Math.floor(props.offsetX * props.scale),
+        width: size,
+        height: size,
     };
     const url = props.url.replace("{x}", props.x).replace("{y}", props.y);
     return (
