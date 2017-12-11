@@ -74,8 +74,8 @@ class RouteMap extends Component {
         const offsetY = Math.round((tileset.top - top) / tileset.mapUnitsPerPixel);
 
         const scale = (72 / tileset.dpi) * this.props.scale;
-        const tileCountX = Math.ceil((width / tileset.tileSize) / scale);
-        const tileCountY = Math.ceil((height / tileset.tileSize) / scale);
+        const tileCountX = Math.ceil(width / Math.floor(tileset.tileSize * scale)) + 1;
+        const tileCountY = Math.ceil(height / Math.floor(tileset.tileSize * scale)) + 1;
         const leftmostTile = Math.floor(offsetX / tileset.tileSize);
         const topmostTile = Math.floor(offsetY / tileset.tileSize);
 
